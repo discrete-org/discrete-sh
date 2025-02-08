@@ -2,46 +2,30 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 📌 Kata Pengantar
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Halo, teman-teman! 👋  
 
-## Getting Started
+Selamat datang di dokumentasi **Matematika Diskrit** ini! 🎉 Di sini, kita akan membahas konsep-konsep Matdis secara **santai, jelas, dan terstruktur**, supaya lebih mudah dipahami.  
 
-Get started by **creating a new site**.
+Matematika Diskrit adalah salah satu cabang matematika yang banyak digunakan dalam dunia **komputer, AI, blockchain, dan pemrograman secara umum**. Mulai dari **logika, himpunan, relasi, graf, hingga kombinatorika**, semua akan kita kupas tuntas dengan penjelasan yang sederhana dan contoh nyata.  
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 📚 Apa yang bisa kamu pelajari di sini?
+✅ Konsep dasar Matematika Diskrit  
+✅ Penjelasan yang mudah dipahami  
+✅ Contoh soal dan pembahasannya  
+✅ Aplikasi Matdis dalam dunia nyata  
 
-### What you'll need
+Matematika Diskrit sering dianggap sulit oleh banyak orang karena materinya yang abstrak dan berbeda dari matematika konvensional seperti aljabar atau kalkulus. Namun, dengan pendekatan yang tepat, kita bisa memahami konsep-konsep ini dengan lebih mudah. Dokumentasi ini dirancang untuk membantu siapa saja, baik pemula maupun yang sudah familiar dengan Matdis, agar bisa belajar dengan cara yang lebih terstruktur dan menyenangkan.  
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Dalam penyusunan dokumentasi ini, saya mengambil referensi dari buku **"[Nama Buku]"** karya **[Nama Penulis]**. Buku ini menjadi sumber utama dalam memahami konsep-konsep Matematika Diskrit dengan lebih mendalam. Selain itu, saya juga mengadaptasi beberapa materi dari sumber lain untuk memperkaya pemahaman dan memberikan pendekatan yang lebih mudah dipahami.  
 
-## Generate a new site
+Selain dari buku, dokumentasi ini juga didukung dengan berbagai sumber online dan pengalaman pribadi dalam memahami Matdis. Saya percaya bahwa belajar itu tidak hanya sekadar menghafal teori, tetapi juga harus bisa memahami cara menerapkannya dalam berbagai bidang, terutama dalam dunia teknologi dan komputasi.  
 
-Generate a new Docusaurus site using the **classic template**.
+Banyak konsep dalam Matematika Diskrit yang memiliki aplikasi langsung dalam kehidupan sehari-hari. Contohnya, teori graf digunakan dalam analisis jaringan sosial, sistem pencarian di internet, serta optimasi rute perjalanan. Kombinatorika sering digunakan dalam analisis data, kecerdasan buatan, dan bahkan dalam pengembangan game. Oleh karena itu, memahami Matematika Diskrit akan memberikan banyak keuntungan, terutama bagi mereka yang ingin mendalami dunia teknologi lebih dalam.  
 
-The classic template will automatically be added to your project after you run the command:
+Semoga dokumentasi ini bisa membantu kamu memahami **Matematika Diskrit dengan lebih menyenangkan!** 🚀 Jika ada saran atau pertanyaan, jangan ragu untuk bertanya. Saya sangat terbuka terhadap kritik dan saran untuk terus memperbaiki materi yang ada di dalam dokumentasi ini.  
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Selamat belajar dan tetap semangat! 💡🔥  
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> **"Matematika Diskrit Itu Keren!! 🔥📚 Yuk, Belajar Bareng!"**
