@@ -18,7 +18,7 @@ Matematika Diskrit adalah salah satu cabang matematika yang banyak digunakan dal
 
 Matematika Diskrit sering dianggap sulit oleh banyak orang karena materinya yang abstrak dan berbeda dari matematika konvensional seperti aljabar atau kalkulus. Namun, dengan pendekatan yang tepat, kita bisa memahami konsep-konsep ini dengan lebih mudah. Dokumentasi ini dirancang untuk membantu siapa saja, baik pemula maupun yang sudah familiar dengan Matdis, agar bisa belajar dengan cara yang lebih terstruktur dan menyenangkan.  
 
-Dalam penyusunan dokumentasi ini, saya mengambil referensi dari buku **"[Nama Buku]"** karya **[Nama Penulis]**. Buku ini menjadi sumber utama dalam memahami konsep-konsep Matematika Diskrit dengan lebih mendalam. Selain itu, saya juga mengadaptasi beberapa materi dari sumber lain untuk memperkaya pemahaman dan memberikan pendekatan yang lebih mudah dipahami.  
+Dalam penyusunan dokumentasi ini, saya mengambil referensi dari buku **"Matematika Diskrit"** karya **Rinaldi Munir**. Buku ini menjadi sumber utama dalam memahami konsep-konsep Matematika Diskrit dengan lebih mendalam. Selain itu, saya juga mengadaptasi beberapa materi dari sumber lain untuk memperkaya pemahaman dan memberikan pendekatan yang lebih mudah dipahami.  
 
 Selain dari buku, dokumentasi ini juga didukung dengan berbagai sumber online dan pengalaman pribadi dalam memahami Matdis. Saya percaya bahwa belajar itu tidak hanya sekadar menghafal teori, tetapi juga harus bisa memahami cara menerapkannya dalam berbagai bidang, terutama dalam dunia teknologi dan komputasi.  
 
