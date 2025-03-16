@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Halo, teman-teman! 👋  
 
-Selamat datang di dokumentasi **Matematika Diskrit** ini! 🎉 Di sini, kita akan membahas konsep-konsep Matdis secara **santai, jelas, dan terstruktur**, supaya lebih mudah dipahami.  
+Selamat datang di dokumentasi **Matematika Diskrit** ini! 🎉 Di sini, kita akan membahas konsep-konsep Matematika Diskrit secara **santai, jelas, dan terstruktur**, supaya lebih mudah dipahami.  
 
 Matematika Diskrit adalah salah satu cabang matematika yang banyak digunakan dalam dunia **komputer, AI, blockchain, dan pemrograman secara umum**. Mulai dari **logika, himpunan, relasi, graf, hingga kombinatorika**, semua akan kita kupas tuntas dengan penjelasan yang sederhana dan contoh nyata.  
 
