@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 📌 Kata Pengantar
+#  Kata Pengantar
 
 Halo, teman-teman! 👋  
 
