@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Mengkombinasikan Proposisi
+# Kombinasi Proposisi
 
 Dalam logika, kita bisa membuat proposisi baru dengan menggabungkan beberapa proposisi menggunakan **operator logika**. Operator dasar yang sering digunakan adalah **dan** (*and*), **atau** (*or*), dan **tidak** (*not*).
 
