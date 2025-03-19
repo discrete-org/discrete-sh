@@ -4,6 +4,6 @@ sidebar_position: 3
 
 # Terima Kasih
 
-Saya ucapkan terima kasih kepada Rinaldi Munir yang telah menerbitkan buku Matematika Diskrit sehingga saya bisa dengan mudah menyusun tulisan ini.
+Saya ingin mengucapkan terima kasih kepada Rinaldi Munir atas bukunya tentang Matematika Diskrit, yang sangat membantu saya dalam menyusun tulisan ini.
 
-Terima kasih kepada keluarga saya -- kedua orang tua saya yang selalu mendukung, kakak saya yang selalu mendorong, dan kedua adik saya yang selalu menjadi alasan saya untuk tetap bertahan hidup.
+Juga, terima kasih sebesar-besarnya untuk keluarga saya—orang tua yang selalu mendukung, kakak yang terus menyemangati, dan kedua adik yang menjadi alasan saya untuk terus melangkah. Kalian luar biasa! ❤️

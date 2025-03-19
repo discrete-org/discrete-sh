@@ -4,14 +4,14 @@ sidebar_position: 2
 
 # Tentang Penulis
 
-Halo, saya Mayendra Dwika Prayudha, mahasiswa Ilmu Komputer yang saat ini berlokasi di kota Padang.
+Halo! Saya **Mayendra Dwika Prayudha**, seorang mahasiswa Ilmu Komputer yang saat ini menetap di Padang.
 
-Kalian dapat mengikuti dan mengontak saya melalui :
+Kalau ingin terhubung atau sekedar ngobrol santai, bisa kontak saya di:
 
-- Email mayendradwikaprayudha@gmail.com
-- LinkedIn : [mayendradwika](https://linkedin/in/mayendradwika)
-- Twitter : [mayendradwika](https://x.com/mayendradwika)
-- Github : [mayendradwika](https://github.com/mayendradwika)
+- 📩 Email mayendradwikaprayudha@gmail.com
+- 💼 LinkedIn : [mayendradwika](https://linkedin/in/mayendradwika)
+- 🐦 Twitter : [mayendradwika](https://x.com/mayendradwika)
+- 🖥️ Github : [mayendradwika](https://github.com/mayendradwika)
 
   
-Terima kasih telah meluangkan waktunya untuk membaca materi belajar Matematika Diskrit ini. Semoga kamu diberi kesehatan dan kegembiraan dalam hidup.
+Terima kasih sudah mampir dan membaca materi Matematika Diskrit ini. Semoga belajarnya lancar, dan jangan lupa tetap semangat! 🚀
