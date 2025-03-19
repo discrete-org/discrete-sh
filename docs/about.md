@@ -11,4 +11,4 @@ Kalian dapat mengikuti dan mengontak saya melalui :
 - Email mayendradwikaprayudha@gmail.com
 - LinkedIn : [mayendradwika](https://linkedin/in/mayendradwika)
 - Github : [mayendradwika](https://github.com/mayendradwika)
-- Read the [official documentation](https://docusaurus.io/)
+- Twitter : [mayendradwika](https://x.com/mayendradwika)
