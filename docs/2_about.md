@@ -9,7 +9,7 @@ Halo! Saya **Mayendra Dwika Prayudha**, seorang mahasiswa Ilmu Komputer yang saa
 Kalau ingin terhubung atau sekedar ngobrol santai, bisa kontak saya di:
 
 - 📩 Email mayendradwikaprayudha@gmail.com
-- 💼 LinkedIn : [mayendradwika](https://linkedin/in/mayendradwika)
+- 💼 LinkedIn : [mayendradwika](https://www.linkedin.com/in/mayendradwika/)
 - 🐦 Twitter : [mayendradwika](https://x.com/mayendradwika)
 - 🖥️ Github : [mayendradwika](https://github.com/mayendradwika)
 
