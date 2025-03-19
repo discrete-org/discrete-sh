@@ -10,5 +10,8 @@ Kalian dapat mengikuti dan mengontak saya melalui :
 
 - Email mayendradwikaprayudha@gmail.com
 - LinkedIn : [mayendradwika](https://linkedin/in/mayendradwika)
-- Github : [mayendradwika](https://github.com/mayendradwika)
 - Twitter : [mayendradwika](https://x.com/mayendradwika)
+- Github : [mayendradwika](https://github.com/mayendradwika)
+
+
+Terima kasih telah meluangkan waktunya untuk membaca materi belajar Matematika Diskrit ini. Semoga kamu diberi kesehatan dan kegembiraan dalam hidup.
