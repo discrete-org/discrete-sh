@@ -13,5 +13,5 @@ Kalian dapat mengikuti dan mengontak saya melalui :
 - Twitter : [mayendradwika](https://x.com/mayendradwika)
 - Github : [mayendradwika](https://github.com/mayendradwika)
 
-
+  
 Terima kasih telah meluangkan waktunya untuk membaca materi belajar Matematika Diskrit ini. Semoga kamu diberi kesehatan dan kegembiraan dalam hidup.
