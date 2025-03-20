@@ -65,4 +65,6 @@ Proposisi dalam kerangka hubungan ekivalensi logika, memenuhi sifat-sifat yang d
 | Negasi AND        | P ∧ ¬P ≡ F |
 | Negasi OR         | P ∨ ¬P ≡ T |
 
-Hukum-hukum logika di atas bermanfaat untuk membuktikan keekivalenan dua buah proposisi. Selain menggunakan tabel kebenaran, keekivalenan dapat dibuktikan dengan hukum-hukum logika, khususnya pada proposisi atomik. Bila suatu proposisi majemuk mempunyai *n* buah proporsi 
+Hukum-hukum logika ini sangat berguna untuk membuktikan apakah dua proposisi setara atau tidak. Selain lewat tabel kebenaran, kita juga bisa membuktikan kesetaraan dengan menerapkan hukum-hukum logika langsung pada proposisi atomik.
+
+Namun, kalau sebuah proposisi majemuk punya n proposisi atomik, tabel kebenarannya bakal punya 2^n baris. Kebayang kan kalau *n* = 10? Itu berarti ada 2^10 atau 1.024 baris! Jadi, kalau jumlah proposisinya banyak, pakai tabel kebenaran bisa jadi kurang praktis. Dalam kasus seperti ini, membuktikan dengan hukum logika jelas jauh lebih efisien.
