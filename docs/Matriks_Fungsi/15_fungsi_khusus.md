@@ -8,4 +8,6 @@ Bagian ini memberikan beberapa fungsi yang dipakai di dalam ilmu komputer, yaitu
 ## Fungsi *Floor* dan *Ceiling*
 Pengertian kedua nya dan contoh
 
-## 
+## Fungsi modulo
+Pengertian kedua nya dan contoh
+
