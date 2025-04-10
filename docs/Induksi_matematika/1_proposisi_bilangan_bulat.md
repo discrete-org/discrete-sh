@@ -24,3 +24,5 @@ Contoh kedua, kita ingin menemukan rumus jumlah dari *n* buah bilangan ganjil po
 *n* = 4 => 1 + 3 + 5 + 7 = 16
 
 *n* = 5 => 1 + 3 + 5 + 7 + 9 = 25
+
+Dari nilai-nilai penjumlahan itu kita menduga bahwa jumlah *n* buah bilangan ganjil positif pertama adalah *n*^2.
