@@ -34,3 +34,4 @@ Contoh-contoh proposisi perihal bilangan bulat yang lainnya misalnya :
 4. Di dalam sebuah pesta, setiap tamu berjabat tangan dengan yang terjadi adalah *n*(*n* - 1)/2
 5. Banyaknya himpunan bagian yang dapat dibentuk dari sebuah himpunan yang beranggotakan *n* elemen adalah 2^n
 
+Proposisi-proposisi semacam di ataslah yang dapat dibuktikan dengan induksi matematika. 
