@@ -13,4 +13,14 @@ Kalau kita coba dengan beberapa nilai *n*, memang timbul dugaan bahwa *p*(*n*) b
 
 Untuk nilai-nilai *n* yang lain kita akan dapatkan kesimpulan serupa. Sayangnya, instansiasi seperti *p*(5) tidak dapat berlaku sebagai bukti bahwa *p*(*n*) benar untuk seluruh *n*. Kita memang sudah menunjukan bahwa *n* = 5 berada di dalam himpunan kebenaran *p*(*n*). Tetapi, kita tahu bahwa 5 bukanlah satu-satunya bilangan bulat positif. Karena bilangan bulat positif tidak terhingga banyaknya, kita tentu tidak mungkin mencoba seluruhnya untuk membuktikan *p*(*n*) benar. Jadi, kita tidak dapat menggunakan pendekatan semacam ini untuk membuktikan kebenaran pernyataan perhal bilangan bulat.
 
-Contoh kedua, kita ingin menemukan rumus jumlah dari *n* buah bilangan ganjil positif yang pertama. 
+Contoh kedua, kita ingin menemukan rumus jumlah dari *n* buah bilangan ganjil positif yang pertama. Misalnya untuk *n* = 1,2,3,4,5 kita mengamati jumlah *n* bilangan ganjil positif pertama adalah :
+
+*n* = 1 => 1 = 1
+
+*n* = 2 => 1 + 3 = 4
+
+*n* = 3 => 1 + 3 + 5 = 9
+
+*n* = 4 => 1 + 3 + 5 + 7 = 16
+
+*n* = 5 => 1 + 3 + 5 + 7 + 9 = 25
