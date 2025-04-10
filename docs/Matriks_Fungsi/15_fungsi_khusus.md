@@ -9,5 +9,7 @@ Bagian ini memberikan beberapa fungsi yang dipakai di dalam ilmu komputer, yaitu
 Pengertian kedua nya dan contoh
 
 ## Fungsi modulo
-Pengertian kedua nya dan contoh
+Pengertian dan contoh
 
+## Fungsi Faktorial
+pengertian dan contoh
