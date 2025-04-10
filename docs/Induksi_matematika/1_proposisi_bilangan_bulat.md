@@ -28,3 +28,9 @@ Contoh kedua, kita ingin menemukan rumus jumlah dari *n* buah bilangan ganjil po
 Dari nilai-nilai penjumlahan itu kita menduga bahwa jumlah *n* buah bilangan ganjil positif pertama adalah *n*^2. Kita perlu membuktikan bahwa perkiraan kita tersebut benar jka memang itu faktanya. Kita perlu membuktikan bahwa perkiraan kita tersebut benar jika memang itu faktanya. Bagaimana cara membuktikannya dengan induksi matematik?
 
 Contoh-contoh proposisi perihal bilangan bulat yang lainnya misalnya :
+1. Setiap bilangan bulat positif *n* (*n* > 2) dapat dinyatakan sebagai perkalian dari (satu atau lebih) bilangan prima.
+2. Untuk semua n > 1, n^3 + 2n adalah kelipatan 3
+3. Untuk membayar biaya pos sebesar *n* sen dolar (*n* > 8) selalu dapat digunakan hanya perangko 3 sen dan 5 sen dolar.
+4. Di dalam sebuah pesta, setiap tamu berjabat tangan dengan yang terjadi adalah *n*(*n* - 1)/2
+5. Banyaknya himpunan bagian yang dapat dibentuk dari sebuah himpunan yang beranggotakan *n* elemen adalah 2^n
+
