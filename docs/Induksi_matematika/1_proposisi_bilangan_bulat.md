@@ -11,4 +11,4 @@ Kalau kita coba dengan beberapa nilai *n*, memang timbul dugaan bahwa *p*(*n*) b
 
 1 + 2 + 3 + 4+ 5 = 15 = 5(6)/2
 
-Untuk nilai-nilai *n* yang lain kita akan dapatkan kesimpulan serupa. Sayangnya, instansiasi seperti *p*(5) tidak dapat berlaku sebagai bukti bahwa *p*(*n*) benar untuk seluruh *n*. Kita memang sudah menunjukan bahwa *n* = 5 berada di dalam himpunan kebenaran *p*(*n*). Tetapi, kita tahu bahwa 5 bukanlah satu-satunya bilangan bulat positif.
+Untuk nilai-nilai *n* yang lain kita akan dapatkan kesimpulan serupa. Sayangnya, instansiasi seperti *p*(5) tidak dapat berlaku sebagai bukti bahwa *p*(*n*) benar untuk seluruh *n*. Kita memang sudah menunjukan bahwa *n* = 5 berada di dalam himpunan kebenaran *p*(*n*). Tetapi, kita tahu bahwa 5 bukanlah satu-satunya bilangan bulat positif. Karena bilangan bulat positif tidak terhingga banyaknya, kita tentu tidak mungkin mencoba seluruhnya untuk membuktikan *p*(*n*) benar.
