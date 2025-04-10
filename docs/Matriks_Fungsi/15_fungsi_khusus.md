@@ -13,3 +13,6 @@ Pengertian dan contoh
 
 ## Fungsi Faktorial
 pengertian dan contoh
+
+## Fungsi Eksponensial dan Logaritmik
+pengertian kedua nya dan contoh
