@@ -38,8 +38,13 @@ Dengan pendekatan rekursif, kita bisa mendefinisikan:
 Jika kita menghitung 5!, prosesnya menjadi seperti ini:
 
 5! = 5 × 4!
+
 4! = 4 × 3!
+
 3! = 3 × 2!
+
 2! = 2 × 1!
+
 1! = 1 × 0!
+
 0! = 1         ← sampai di sini, kita mulai menghitung balik ke atas
