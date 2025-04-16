@@ -2,39 +2,87 @@
 sidebar_position: 4
 ---
 
-# Disjungsi Ekslusif (XOR)
+# ❌ Disjungsi Eksklusif (XOR)
 
-Dalam logika, kata **"atau"** (or) bisa punya dua makna berbeda.
+Dalam logika, kata **"atau"** ternyata punya dua makna berbeda. Yuk kita bahas!
 
-### 1️⃣ "Atau" Inklusif (Inclusive OR)
+---
 
-Ini berarti "P atau Q atau keduanya". Artinya, pernyataan tetap benar jika salah satu atau bahkan keduanya benar. Operator **OR** yang sudah kita bahas sebelumnya adalah jenis yang inklusif ini.
+## 1️⃣ "Atau" Inklusif (Inclusive OR)
 
-### 2️⃣ "Atau" Eksklusif (Exclusive OR / XOR)
+Jenis ini berarti **"P atau Q atau keduanya"**.
 
-Nah, ini beda! XOR berarti "P atau Q, **tapi bukan keduanya** tapi bukan keduanya". Pernyataan hanya bernilai benar jika salah satu dari P atau Q yang benar, tetapi tidak keduanya sekaligus.
+- Pernyataan akan bernilai **benar** jika:
+  - P benar
+  - Q benar
+  - atau **keduanya benar**
 
-#### 💡 Contoh Sederhana:
+Jenis ini adalah **OR** yang biasa kita gunakan dalam logika proposisi.
 
-Bayangkan ada lomba dengan hadiah TV 20 inci. Kalau pemenang tidak mau TV, panitia bisa menggantinya dengan uang.
+---
 
-Pernyataannya bisa ditulis begini:
+## 2️⃣ "Atau" Eksklusif (Exclusive OR / XOR)
 
-"Pemenang lomba mendapat hadiah berupa TV atau uang."
+Nah, yang ini beda!
 
-Tapi di sini kata "atau" bersifat **ekslusif**. Artinya, pemenang hanya bisa membawa **salah satu, bukan keduanya sekaligus**.
+- **XOR** berarti **"P atau Q, tetapi *bukan keduanya sekaligus*"**
+- Artinya, pernyataan hanya **benar jika hanya satu dari P atau Q yang benar**
 
-### Notasi XOR dalam Logika
+---
 
-Untuk membedakan dari Inclusive OR, kita menggunakan operator ⊕ (XOR), yang didefinisikan sebagai berikut:
+### 💡 Contoh Sederhana
+
+Bayangkan ada pernyataan berikut dalam sebuah lomba:
+
+> "Pemenang lomba mendapat hadiah berupa **TV atau uang tunai**."
+
+Tapi... hanya boleh **memilih salah satu** — tidak bisa keduanya.
+
+🛑 Jadi:
+- TV ✅, uang ❌ → **Benar**
+- TV ❌, uang ✅ → **Benar**
+- TV ✅, uang ✅ → **Salah**
+- TV ❌, uang ❌ → **Salah**
+
+---
+
+## 🔣 Notasi XOR dalam Logika
+
+Untuk menyatakan XOR, kita menggunakan simbol:
+
+P ⊕ Q
+
+
+
+Artinya: **P XOR Q**
+
+---
+
+## 📊 Tabel Kebenaran XOR
 
 | P  | Q  | P ⊕ Q |
-|----|----|------|
-| T  | T  | F    |
-| T  | F  | T    |
-| F  | T  | T    |
-| F  | F  | F    |
+|----|----|--------|
+| T  | T  | ❌ F    |
+| T  | F  | ✅ T    |
+| F  | T  | ✅ T    |
+| F  | F  | ❌ F    |
 
-Dari tabel di atas, kita bisa melihat bahwa **P ⊕ Q** bernilai *True* jika *salah satu* dari P atau Q yang benar tetapi **tidak keduanya sekaligus**.
+---
 
-Jadi, kalau ada situasi di mana hanya satu pilihan bisa benar, tapi bukan keduany, **XOR** adalah konsep yang tepat! 🚀
+Dari tabel di atas, jelas bahwa:
+
+> **P ⊕ Q bernilai benar hanya jika salah satu dari P atau Q benar, tapi bukan keduanya.**
+
+---
+
+## ✅ Kapan Gunakan XOR?
+
+Gunakan **XOR** kalau kamu ingin membatasi pilihan:
+- Hanya satu kondisi yang boleh benar
+- Tidak boleh keduanya aktif
+
+Contoh lain:
+- Sistem login yang hanya memperbolehkan satu dari dua metode otentikasi
+- Soal pilihan ganda dengan jawaban tunggal
+
+---

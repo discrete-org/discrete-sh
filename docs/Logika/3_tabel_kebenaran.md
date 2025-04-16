@@ -2,26 +2,51 @@
 sidebar_position: 3
 ---
 
-# Tabel Kebenaran
+# 📊 Tabel Kebenaran
 
-Bagaimana cara menentukan apakah suatu pernyataan benar atau salah ketika digabung dengan pernyataan lain? **Table Kebenaran** (*truth table*) adalah alat yang membantu kita memahami hubungan logis antara nilai kebenaran dari beberapa proposisi.
+Bagaimana cara menentukan apakah suatu pernyataan benar atau salah ketika digabungkan dengan pernyataan lain?  
+**Tabel Kebenaran** (*truth table*) adalah alat yang membantu kita memahami hubungan logis antara nilai kebenaran dari beberapa proposisi.
 
+Dengan tabel ini, kita bisa melihat bagaimana nilai kebenaran suatu proposisi majemuk ditentukan berdasarkan proposisi-proposisi penyusunnya.
 
-Dengan tabel ini, kita dapat melihat bagaimana nilai kebenaran suatu proposisi majemuk ditentukan berdasarkan proposisi-proposisi penyusunnya.
+---
 
+## 🔎 Contoh Tabel Kebenaran
 
-| P | Q | P ∧ Q | P ∨ Q | ¬P |
-|---|---|------|------|----|
-| T | T |  T   |  T   | F  |
-| T | F |  F   |  T   | F  |
-| F | T |  F   |  T   | T  |
-| F | F |  F   |  F   | T  |
+Berikut adalah contoh tabel kebenaran untuk tiga operasi logika dasar:
 
-Tabel diatas menunjukan cara kerja tiga operasi logika dasar:
+| P  | Q  | P ∧ Q | P ∨ Q | ¬P |
+|----|----|-------|-------|----|
+| T  | T  |   T   |   T   |  F |
+| T  | F  |   F   |   T   |  F |
+| F  | T  |   F   |   T   |  T |
+| F  | F  |   F   |   F   |  T |
 
-- **konjungsi (P ∧ Q)** -> bernilai *True* jika kedua proposisi bernilai True.
-- **disjungsi (P ∨ Q)** -> bernilai *True* jika salah satu atau keduanya bernilai True.
-- **negasi (¬P)** -> Kebalikan dari P, jika P bernilai *True*, maka hasilnya *False*, dan sebaliknya.
+---
 
-Dengan menggunakan tabel ini, kita dapat lebih mudah memahami dan menganalisis berbagai bentuk pernyataan logis.
+## 🧠 Penjelasan Setiap Kolom
+
+- **Konjungsi (P ∧ Q)**: 
+  - Hasil bernilai **True** jika **kedua proposisi** bernilai **True**. 
+  - Jika salah satu atau kedua proposisi salah, maka hasilnya **False**.
+  
+- **Disjungsi (P ∨ Q)**: 
+  - Hasil bernilai **True** jika **salah satu atau keduanya** bernilai **True**.
+  - Hanya **False** jika **kedua proposisi** salah.
+  
+- **Negasi (¬P)**: 
+  - Ini adalah kebalikan dari nilai kebenaran proposisi **P**.
+  - Jika **P** bernilai **True**, maka **¬P** bernilai **False**, dan sebaliknya.
+
+---
+
+## 📘 Manfaat Tabel Kebenaran
+
+Dengan menggunakan **tabel kebenaran**, kita bisa lebih mudah untuk:
+
+- Menganalisis dan menyimpulkan nilai kebenaran dari proposisi majemuk.
+- Memahami bagaimana operasi logika seperti konjungsi, disjungsi, dan negasi bekerja.
+- Membuktikan kesetaraan antar proposisi dalam bentuk logika formal.
+
+---
 

@@ -2,45 +2,55 @@
 sidebar_position: 1
 ---
 
-# Proporsi
+# 🔢 Proposisi
 
 Dalam matematika, tidak semua kalimat bisa disebut "logis". Hanya kalimat yang bisa bernilai **benar** atau **salah** yang masuk ke dalam penalaran logika. Kalimat semacam ini disebut **proposisi** (*proposition*).
 
-Secara sederhana, **proposisi** adalah kalimat yang punya nilai kebenaran -- entah **benar** (*true*) atau **salah** (*false*), tapi tidak bisa keduanya sekaligus. Nilai benar atau salah ini disebut **truth value**.
+Secara sederhana, **proposisi** adalah kalimat yang memiliki nilai kebenaran — entah **benar** (*true*) atau **salah** (*false*), namun tidak bisa keduanya sekaligus. Nilai benar atau salah ini disebut **truth value**.
 
-#### Contoh Proposisi
+---
 
-Perhatikan beberapa contoh berikut:
-- (a) "6 adalah bilangan genap."  ✅
-- (b) "Soekarno adalah Presiden Indonesia yang pertama."  ✅
+## 📝 Contoh Proposisi
+
+Berikut adalah beberapa contoh proposisi:
+
+- (a) "6 adalah bilangan genap." ✅
+- (b) "Soekarno adalah Presiden Indonesia yang pertama." ✅
 - (c) "2 + 2 = 4." ✅
-- (d) "Ibukota Provinsi Jawa Barat adalah Semarang."  ❌ (Harusnya Bandung!)
+- (d) "Ibukota Provinsi Jawa Barat adalah Semarang." ❌ (Harusnya Bandung!)
 - (e) "12 ≤ 19." ✅
 - (f) "Kemarin hari hujan." 🤔
 - (g) "Suhu di permukaan laut adalah 21 derajat Celcius." 🤔
 - (h) "Pemuda itu tinggi." 🤔
 - (i) "Kehidupan hanya ada di planet Bumi." 🤔
 
-Kalimat (a), (b), dan (c) jelas benar. Sedangkan (d) salah karena ibukota Jawa Barat adalah Bandung.
+---
 
-Bagaimana dengan (f) sampai (i)? Kalimat-kalimat ini bisa jadi benar atau salah, tergantung fakta yang kita miliki. Misalnya, (f) bisa benar kalau kemarin memang hujan, atau salah kalau cuacanya cerah. Sama halnya dengan (g) dan (h), yang bergantung pada kondisi tertentu.
+### Penjelasan:
 
-Sedangkan (i) tentang kehidupan di luar Bumi? Sampai sekarang belum ada yang bisa memastikan!
+- **(a), (b), (c)**: Jelas benar, karena pernyataan tersebut dapat diuji dan terbukti benar.
+- **(d)**: Salah, karena ibukota Jawa Barat adalah Bandung, bukan Semarang.
+- **(f) hingga (i)**: Pernyataan ini bisa **benar** atau **salah** tergantung pada fakta yang kita miliki:
+  - (f): Bisa benar jika kemarin memang hujan, atau salah jika cuacanya cerah.
+  - (g): Tergantung suhu di permukaan laut pada saat tersebut.
+  - (h): "Tinggi" adalah subjektif, bisa berbeda interpretasi.
+  - (i): Sampai saat ini, belum ada bukti pasti tentang kehidupan di luar Bumi.
 
-## Logika Proposisi
+---
+
+## 📚 Logika Proposisi
 
 Bidang logika yang membahas proposisi dinamakan **kalkulus proposisi** (*propositional calculus*) atau **logika proposisi** (*propositional logic*).
 
 Dalam simbol logika, proposisi biasanya dilambangkan dengan huruf kecil seperti p, q, r, dan seterusnya. Misalnya:
 
-*p* : 6 adalah bilangan genap.
-untuk mendefenisikan *p* sebagai proposisi "6 adalah bilangan genap".
+- *p*: "6 adalah bilangan genap."
 
-Nah, itulah dasar dari proposisi! Gimana? Sudah mulai terasa serunya dunia logika? 🚀
+Kita dapat mendefinisikan *p* sebagai proposisi yang menyatakan "6 adalah bilangan genap".
 
+---
 
+## 🚀 Kesimpulan
 
-
-
-
+Itulah dasar dari **proposisi** dalam logika! Apakah kamu mulai tertarik dengan dunia logika? Kamu bisa mulai mempelajari lebih dalam dengan menggabungkan proposisi-proposisi ini menggunakan operator logika dan menggali lebih banyak topik yang lebih kompleks!
 

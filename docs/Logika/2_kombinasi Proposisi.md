@@ -2,52 +2,77 @@
 sidebar_position: 2
 ---
 
-# Kombinasi Proposisi
+# 🔗 Kombinasi Proposisi
 
-Dalam logika, kita bisa membuat proposisi baru dengan menggabungkan beberapa proposisi menggunakan **operator logika**. Operator dasar yang sering digunakan adalah **dan** (*and*), **atau** (*or*), dan **tidak** (*not*).
+Dalam logika, kita dapat membuat proposisi baru dengan menggabungkan beberapa proposisi menggunakan **operator logika**. Operator dasar yang sering digunakan adalah **dan** (*and*), **atau** (*or*), dan **tidak** (*not*).
 
 - **"AND"** (**∧**) dan **"OR"** (**∨**) disebut **operator biner** karena menghubungkan dua proposisi.
-- **"NOT"** (**¬**) disebut **operator uner** karena hanya mempengaruhi satu proposisi.
+- **"NOT"** (**¬**) disebut **operator uniter** karena hanya mempengaruhi satu proposisi.
 
-Proposisi hasil kombinasi ini disebut **proposisi majemuk** (*compound proposition*), sedangkan proposisi yang berdiri sendiri tanpa kombinasi disebut **proposisi atomik**. Intinya, proposisi majemuk terbentuk dari beberapa proposisi atomik yang digabungkan dengan operator logika.
+Proposisi yang dihasilkan dari kombinasi ini disebut **proposisi majemuk** (*compound proposition*), sementara proposisi yang berdiri sendiri tanpa kombinasi disebut **proposisi atomik**.
 
-### Sejarah Singkat
+---
 
-Konsep ini pertama kali diperkenalkan oleh **George Boole** dalam bukunya *The Laws of Thought* (1854). Logika yang ia kembangkan dikenal sebagai **Logika Boolean**, dan sekarang banyak digunakan dalam pemrograman serta ilmu komputer.
+## 🧠 Sejarah Singkat
 
-### Jenis-Jenis Proposisi Majemuk
+Konsep penggabungan proposisi ini pertama kali diperkenalkan oleh **George Boole** dalam bukunya *The Laws of Thought* (1854). Ia mengembangkan **Logika Boolean**, yang sekarang banyak digunakan dalam bidang **pemrograman** dan **ilmu komputer**.
 
-Misalkan kita punya dua proposisi:
+---
+
+## 🔄 Jenis-Jenis Proposisi Majemuk
+
+Misalkan kita memiliki dua proposisi:
+
 - *p*: Hari ini hujan.
 - *q*: Murid-murid diliburkan dari sekolah.
 
 Dengan operator logika, kita bisa membentuk kombinasi berikut:
 
-#### Konjungsi (**AND - ∧**)
+---
 
-Gabungan proposisi dengan kata "dan", yaitu p ∧ q. Contoh :
+### 1️⃣ **Konjungsi (AND - ∧)**
 
-"Hari ini hujan dan murid-murid diliburkan dari sekolah."
+Gabungan proposisi dengan kata **"dan"**, yaitu **p ∧ q**.  
+Contoh:
 
-#### Disjungsi (**OR - ∨**)
+> "Hari ini hujan **dan** murid-murid diliburkan dari sekolah."
 
-Gabungan proposisi dengan kata "atau", yaitu p ∨ q. Contoh:
+- Artinya, kedua proposisi harus benar agar hasilnya benar.
 
-"Hari ini hujan atau murid-murid diliburkan dari sekolah".
+---
 
-#### Negasi (**NOT - ¬**)
+### 2️⃣ **Disjungsi (OR - ∨)**
 
-Membalik nilai kebenaran proposisi, yaitu ¬p. Contoh:
+Gabungan proposisi dengan kata **"atau"**, yaitu **p ∨ q**.  
+Contoh:
 
-"Hari ini tidak hujan".
+> "Hari ini hujan **atau** murid-murid diliburkan dari sekolah."
 
-Selain menggunakan kata "tidak", kita bisa memakai kata "bukan" tergantung pada konteks kalimatnya.
+- Artinya, salah satu atau kedua proposisi bisa benar, dan hasilnya tetap benar.
 
-Dengan memahami operator logika ini, kita bisa menyusun berbagai pernyataan yang lebih kompleks dan logis! 🚀
+---
 
+### 3️⃣ **Negasi (NOT - ¬)**
 
+Membalik nilai kebenaran proposisi, yaitu **¬p**.  
+Contoh:
 
+> "Hari ini **tidak** hujan."
 
+- Jika **p** bernilai benar (hujan), maka **¬p** bernilai salah (tidak hujan), dan sebaliknya.
 
+---
+
+## 🚀 Manfaat Memahami Operator Logika
+
+Dengan memahami operator logika ini, kita dapat menyusun berbagai pernyataan yang lebih kompleks dan logis. Operator ini sangat berguna untuk:
+
+- Membuat argumen yang lebih struktural.
+- Menganalisis hubungan antara proposisi-proposisi yang lebih rumit.
+- Menerapkan logika dalam pemrograman dan algoritma.
+
+---
+
+Pahami dengan baik konsep-konsep dasar ini, dan kamu bisa mulai mengembangkan logika yang lebih kompleks dalam berbagai bidang, terutama dalam **pemrograman** dan **analisis data**.
 
 
