@@ -15,6 +15,6 @@ Misalkan *p* dan *q* adalah proposisi. Proposisi majemuk "jika p, maka q" disebu
 
 Proposisi *p* disebut **hipotesis** (atau **antesenden** atau **premis** atau **kondisi**) dan proposisi *q* disebut **konklusi** (atau **konsekuen**).
 
-Catatlah bahwwa implikasi p -> q hanya salah jika *P* benar tetapi *q* salah, selain itu implikasi bernilai benar. Hal ini dijelaskan dengan contoh analogi berikut: Misalkan dosen anda berkata kepada mahasiswanya di dalam kelas "jika nilai ujian akhir anda 80 atau lebih, maka anda akan mendapat nilai A untuk kuliah ini".
+Catatlah bahwa implikasi p -> q hanya salah jika *P* benar tetapi *q* salah, selain itu implikasi bernilai benar. Hal ini dijelaskan dengan contoh analogi berikut: Misalkan dosen anda berkata kepada mahasiswanya di dalam kelas "jika nilai ujian akhir anda 80 atau lebih, maka anda akan mendapat nilai A untuk kuliah ini".
 
 Di dalam bahasa alami (bahasa percakapan manusia), terdapat hubungan sebab-akibat antara hipotesis dengan konklusi. Tetapi, dalam penalaran matematik, kita memandang implikasi lebih umum daripada implikasi dalam bahasa alami. Konsep matematik mengenai implikasi independen dari hubungan sebab-akibat antara hipotesis dan konklusi.
