@@ -17,11 +17,11 @@ Karena tidak ada elemen di dalamnya, maka:
 
 ## 📚 Contoh Himpunan Kosong:
 
-1. **A = { x | x adalah bilangan genap yang lebih kecil dari 0 }**  
+1. **A = `{ x | x adalah bilangan genap yang lebih kecil dari 0 }`**  
    👉 Tidak ada bilangan genap yang lebih kecil dari 0 (dalam himpunan bilangan asli)  
    ✅ Maka: `A = ∅`
 
-2. **B = { buah yang berbentuk segitiga }**  
+2. **B = `{ buah yang berbentuk segitiga }`**  
    👉 Sampai sekarang tidak ada buah yang berbentuk segitiga  
    ✅ Maka: `B = {}`
 

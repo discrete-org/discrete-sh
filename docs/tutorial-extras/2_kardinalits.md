@@ -13,12 +13,12 @@ Jika A adalah himpunan berhingga, maka jumlah elemen berbeda dalam A disebut **k
 
 ## 📚 Contoh:
 
-1. **A = { x | x adalah bilangan prima kurang dari 20 }**  
+1. **A = `{ x | x adalah bilangan prima kurang dari 20 }`**  
    Isi himpunan A adalah: `2, 3, 5, 7, 11, 13, 17, 19`  
    👉 Jadi jumlah elemennya ada **8**  
    ✨ Maka: `|A| = 8`
 
-2. **B = { kucing, a, Amir, 10, paku }**  
+2. **B = `{ kucing, a, Amir, 10, paku }`**  
    Anggota-anggota B yang berbeda adalah: `kucing, a, Amir, 10, paku`  
    👉 Total ada **5** elemen berbeda  
    ✨ Maka: `|B| = 5`

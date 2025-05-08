@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Belajar Matematika Diskrit',
   tagline: 'Matematika Diskrit Itu Keren!! ⚡🧠 Yuk, Belajar Bareng !',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/matdis.png',
 
   // Set the production url of your site here
   url: 'https://mayendradwika.github.io',
@@ -74,10 +74,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/docusaurus-social-card.jpg  ',
       navbar: {
         title: 'Matematika Diskrit',
-        
+        logo: {
+          alt: 'img/matdis.png',
+          src:'img/matdis.png',
+        },
         items: [
           {
             type: 'docSidebar',
