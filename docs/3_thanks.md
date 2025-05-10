@@ -2,14 +2,16 @@
 sidebar_position: 3
 ---
 
-# 🙏 Terima Kasih
+# 🙌 Terima Kasih Banyak, Gaes!
 
-Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada:
+Pertama-tama, mari kita angkat secangkir kopi virtual dan beri tepuk tangan meriah untuk:
 
-- **Bapak Rinaldi Munir** atas bukunya tentang **Matematika Diskrit**, yang sangat membantu saya dalam menyusun tulisan ini.
+- **Pak Rinaldi Munir**, sang legenda Matdis (*Matematika Diskrit*), yang bukunya jadi penolong sejati dalam menyusun tulisan ini. Tanpa beliau, mungkin saya masih tersesat di dunia logika!
 
-- **Keluarga saya** — orang tua yang selalu mendukung, kakak yang terus menyemangati, dan kedua adik yang menjadi alasan saya untuk terus melangkah. Kalian luar biasa! ❤️
+- **Keluarga tercinta** — Ama & Apa, sumber energi dan wifi cinta tanpa batas; Mas Danu, sang motivator pribadi 24/7; serta Afnan & Ajeng, duo adik kesayangan yang selalu bikin hidup saya lebih rame dan bermakna. Kalian itu buff saya dalam game kehidupan! ❤️
+
+- **Ira Hoirani**, desainer kece yang bikin situs ini tampil glowing tanpa skincare. Serius deh, desainnya secantik senyumnya. 😉
 
 ---
 
-Semoga tulisan ini bermanfaat dan dapat memberikan pemahaman lebih dalam tentang dunia logika dan matematika diskrit!
+Semoga tulisan ini bisa bikin kamu lebih *ngeh* sama logika dan Matdis, dan semoga juga nggak bikin pusing tujuh keliling! 😄
