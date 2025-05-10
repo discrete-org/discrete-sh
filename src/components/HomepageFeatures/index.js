@@ -12,7 +12,7 @@ export default function HomepageFeatures() {
             <div>
               <h3 className={styles.featureTitle}>Logika Matematika</h3>
               <p className={styles.featureDescription}>
-                Pelajari bagaimana cara mengelompokkan elemen-elemen dalam suatu himpunan dan hubungan antar himpunan.
+              Rangkaian pikiran yang runtut, itulah kekuatan logika
               </p>
             </div>
           </Link>
@@ -21,118 +21,20 @@ export default function HomepageFeatures() {
             <div>
               <h3 className={styles.featureTitle}>Teori himpunan</h3>
               <p className={styles.featureDescription}>
-                Memahami dasar-dasar logika yang digunakan untuk membangun argumen matematis.
+              Kelompokkan, bedakan, dan temukan makna dalam setiap elemen
               </p>
             </div>
           </Link>
 
-          <Link to="/teori-graf" className={styles.featureItem}>
+          <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
             <div>
               <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
               <p className={styles.featureDescription}>
-              next update
+              Susun datanya, hubungkan elemennya, temukan polanya
               </p>
             </div>
           </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Induksi Matematik</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Algoritma & Bilangan Bulat</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Kombinatorial & Peluang Diskrit</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Aljabar Boolean</h3>
-              <p className={styles.featureDescription}>
-              next update.
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Teori Graf</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Teori Tree</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Kompleksitas Algoritma</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Barisan & Deret</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Otomata & Teori Bahasa</h3>
-              <p className={styles.featureDescription}>
-              next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Fungsi Pembangkit</h3>
-              <p className={styles.featureDescription}>
-                next update
-              </p>
-            </div>
-          </Link>
-
-          <Link to="/teori-graf" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Grup & Ring</h3>
-              <p className={styles.featureDescription}>
-                next update
-              </p>
-            </div>
-          </Link>
+          
         </div>
       </div>
     </section>

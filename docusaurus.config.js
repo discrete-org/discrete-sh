@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Mayendra Dwika Prayudha © 2025`,
+        copyright: `Matematika Diskrit © 2025`,
       },
       prism: {
         theme: prismThemes.github,
