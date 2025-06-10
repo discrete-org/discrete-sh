@@ -18,4 +18,6 @@ Fungsi adalah relasi yang khusus. Kekhususan ini tercakup pada dua hal penting :
 2. Frasa "dihubungkan dengan tepat satu elemen di dalam B" berarti bahwa jika (a,b) ∈ *f* dan (a,c) ∈ *f*, maka b = c.
 
 Fungsi dapat dispesifisikan dalam berbagai bentuk, diantaranya :
-1. Himpunan pasangan terurut.
+1. Himpunan pasangan terurut. 
+   
+   Ingatlah bahwa fungsi adalah relasi, sedangkan relasi biasanya dinyatakan sebagai himpunan pasangan terurut.
