@@ -24,4 +24,4 @@ Fungsi dapat dispesifisikan dalam berbagai bentuk, diantaranya :
 
 2. Formula pengisian nilai (*assignment*)
 
-   Di dalam kuliah aljabar atau kalkulus, fungsi dispesifikasikan dalam bentuk rumus pengisian nilai (*assignment*), misalnya *f*(x) = 2x + 10, *f*(x) = x^2, dan *f*(x) = 1/x. Jika himpunan daerah asal maupun daerah hasil fungsi tidak dinyatakan secara spesifik, maka diasumsikan daerah asal fungsi adalah **R** dan daerah hasilnya juga **R**. Dalam himpunan pasangan terurut kita mendefenisikan fungsi sebagai *f* = `{(x, x2) | x ∈ **R**}`.
+   Di dalam kuliah aljabar atau kalkulus, fungsi dispesifikasikan dalam bentuk rumus pengisian nilai (*assignment*), misalnya *f*(x) = 2x + 10, *f*(x) = x^2, dan *f*(x) = 1/x. Jika himpunan daerah asal maupun daerah hasil fungsi tidak dinyatakan secara spesifik, maka diasumsikan daerah asal fungsi adalah **R** dan daerah hasilnya juga **R**. Dalam himpunan pasangan terurut kita mendefenisikan fungsi sebagai *f* = `{(x, x2) | x ∈ R}`.
