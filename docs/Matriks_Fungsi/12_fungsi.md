@@ -12,4 +12,6 @@ Definisi : Misalkan A dan B himpunan. Relasi biner *f* dari A ke B merupakan sua
 
 Nama lain untuk fungsi adalah **pemetaan** atau **transformasi**. Kita menuliskan *f*(a) = b jika elemen a di dalam A dihubungkan dengan elemen b di dalam B. Himpunan A disebut **daerah asal** (*domain*) dari *f* dan himpunan B disebut **daerah hasil** (*codomain*) dari *f*. Jika *f*(a) = b, maka b dinamakan **bayangan** (*image*) dari a dan a dinamakan **pra-bayangan** (*pre-image*) dari b. Himpunan yang berisi semua nilai pemetaan *f* disebut **jelajah** (*range*) dari *f*. 
 
-Fungsi adalah relasi yang khusus.
+Fungsi adalah relasi yang khusus. Kekhususan ini tercakup pada dua hal penting : 
+
+1. Tiap elemen di dalam himpunan A, yang merupakan daerah asal *f*, harus digunakan oleh prosedur atau kaidah yang mendefenisikan *f*.
