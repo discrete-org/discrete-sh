@@ -21,3 +21,7 @@ Fungsi dapat dispesifisikan dalam berbagai bentuk, diantaranya :
 1. Himpunan pasangan terurut. 
    
    Ingatlah bahwa fungsi adalah relasi, sedangkan relasi biasanya dinyatakan sebagai himpunan pasangan terurut.
+
+2. Formula pengisian nilai (*assignment*)
+
+   Di dalam kuliah aljabar atau kalkulus, fungsi dispesifikasikan dalam bentuk rumus pengisian nilai (*assignment*), misalnya *f*(x) = 2x + 10, *f*(x) = x^2, dan *f*(x) = 1/x. Jika himpunan daerah asal maupun daerah hasil fungsi tidak dinyatakan secara spesifik, maka diasumsikan daerah asal fungsi adalah **R** dan daerah hasilnya juga **R**.
