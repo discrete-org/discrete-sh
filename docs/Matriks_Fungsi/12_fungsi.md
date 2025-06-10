@@ -10,4 +10,4 @@ Konsep fungsi sangat penting di dalam matematika diskrit. Fungsi sering dipakai 
 
 Definisi : Misalkan A dan B himpunan. Relasi biner *f* dari A ke B merupakan suatu fungsi jika setiap elemen di dalam A dihubungkan dengan tepat satu elemen di dalam B. Jika *f* adalah fungsi dari A ke B kita menuliskan *f* : A -> B yang artinya *f* **memetakan** A ke B.
 
-Nama lain untuk fungsi adalah **pemetaan** atau **transformasi**.
+Nama lain untuk fungsi adalah **pemetaan** atau **transformasi**. Kita menuliskan *f*(a) = b jika elemen a di dalam A dihubungkan dengan elemen b di dalam B.
