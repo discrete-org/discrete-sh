@@ -8,4 +8,4 @@ Berapa lama waktu yang dibutuhkan komputer untuk mengeksekusi sebuah program? Ja
 
 Konsep fungsi sangat penting di dalam matematika diskrit. Fungsi sering dipakai untuk mentranformasikan elemen di sebuah himpunan dengan elemen di himpunan lain. 
 
-Definisi : Misalkan A dan B himpunan. Relasi biner *f* dari A ke B merupakan suatu fungsi jika setiap elemen di dalam A dihubungkan dengan tepat satu elemen di dalam B.
+Definisi : Misalkan A dan B himpunan. Relasi biner *f* dari A ke B merupakan suatu fungsi jika setiap elemen di dalam A dihubungkan dengan tepat satu elemen di dalam B. Jika *f* adalah fungsi dari A ke B kita menuliskan *f* : A -> B yang artinya *f* **memetakan** A ke B.
