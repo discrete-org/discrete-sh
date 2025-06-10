@@ -15,3 +15,4 @@ Nama lain untuk fungsi adalah **pemetaan** atau **transformasi**. Kita menuliska
 Fungsi adalah relasi yang khusus. Kekhususan ini tercakup pada dua hal penting : 
 
 1. Tiap elemen di dalam himpunan A, yang merupakan daerah asal *f*, harus digunakan oleh prosedur atau kaidah yang mendefenisikan *f*.
+2. Frasa "dihubungkan dengan tepat satu elemen di dalam B" berarti bahwa jika (a,b) ∈ *f* dan (a,c) ∈ *f*, maka b = c.
