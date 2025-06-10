@@ -28,4 +28,4 @@ Fungsi dapat dispesifisikan dalam berbagai bentuk, diantaranya :
 
 3. Kata-kata
    
-   Fungsi dapat dinyatakan secara eksplisit dalam rangkaian kata-kata.
+   Fungsi dapat dinyatakan secara eksplisit dalam rangkaian kata-kata. Misalnya "*f* adalah fungsi yang memetakan jumlah 1 bit di dalam suatu *string* biner".
