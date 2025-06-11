@@ -32,3 +32,4 @@ Kalau *f*(a) = b, artinya elemen a dipetakan ke elemen b di B.
 
 ## 🔍 Istilah-istilah Penting 
 - **Domain** : Himpunan asal,tempat semua input berasal (A).
+- **Codomain** : Himpunan tujuan yang bisa dipetakan (B).
