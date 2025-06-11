@@ -58,3 +58,5 @@ Artinya :
 Contoh klasik dari aljabar atau kalkulus :
 
 *f*(*x*) = 2*x* + 10*f*(*x*) = *x*^2 *f*(*x*) = 1 / *x*
+
+Biasanyan diasumsikan x ∈ ℝ (bilangan real), kecuali kalau ditulis lain.
