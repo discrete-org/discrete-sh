@@ -31,7 +31,7 @@ Bayangkan kamu punya dua fungsi:
 
 Kalau kita komposisikan f ∘ g, maka:
 
-(f∘g)(x)=f(g(x))=f(x+2)=(x+2)^2
+(f∘g)(x) =f (g(x)) = f(x+2) = (x+2)^2
 
 Jadi fungsi f ∘ g langsung mengubah x menjadi (x + 2)² dalam satu langkah.
 
