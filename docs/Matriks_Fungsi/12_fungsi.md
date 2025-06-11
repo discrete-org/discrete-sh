@@ -60,3 +60,8 @@ Contoh klasik dari aljabar atau kalkulus :
 *f*(*x*) = 2*x* + 10*f*(*x*) = *x*^2 *f*(*x*) = 1 / *x*
 
 Biasanyan diasumsikan x ∈ ℝ (bilangan real), kecuali kalau ditulis lain.
+
+### 📝 Deskripsi Kata-kata
+Kadang lebih simpel menjelaskannya pakai kalimat :
+
+   "*f* adalah fungsi yang menghitung jumlah angka 1 dalam bentuk string biner".
