@@ -35,4 +35,8 @@ Kalau kita komposisikan f ∘ g, maka:
 
 Jadi fungsi f ∘ g langsung mengubah x menjadi (x + 2)² dalam satu langkah.
 
+## 🔄 Kenapa Komposisi Itu Penting?
+Komposisi fungsi bikin kita bisa **menggabungkan proses** tanpa harus mikir langkah per langkah. Ini sangat berguna dalam pemrograman, pemrosesan data, bahkan di dunia nyata seperti alur produksi atau transformasi sinyal.
 
+
+Jadi, kalau kamu sudah paham fungsi, komposisinya adalah langkah lanjutan yang bikin pemodelan jadi makin fleksibel dan powerful!
