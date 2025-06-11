@@ -77,4 +77,6 @@ def f(x) :
 Fungsi ini menerima x dan mengembalikan 2x + 10.
 
 ## 🎯 Kesimpulan
-Fungsi adalah **relasi khusus** yang menghubungkan satu input ke satu output.
+Fungsi adalah **relasi khusus** yang menghubungkan satu input ke satu output. Konsep ini jadi pondasi penting untuk memahami logika pemrograman, struktur data, hingga analisis algoritma.
+
+Ingat : **Fungsi = aturan pemetaan satu-ke-satu yang jelas dan konsisten**.
