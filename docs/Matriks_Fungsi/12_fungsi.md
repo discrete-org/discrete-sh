@@ -75,3 +75,6 @@ def f(x) :
 ```
 
 Fungsi ini menerima x dan mengembalikan 2x + 10.
+
+## 🎯 Kesimpulan
+Fungsi adalah **relasi khusus** yang menghubungkan satu input ke satu output.
