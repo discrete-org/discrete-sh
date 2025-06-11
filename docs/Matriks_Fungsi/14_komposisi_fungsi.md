@@ -26,3 +26,13 @@ Artinya, kita masukkan a ke dalam g, lalu hasilnya kita masukkan ke dalam f. Jad
 
 ## 📌 Ilustrasi Komposisi
 Bayangkan kamu punya dua fungsi:
+- g(x) = x + 2
+- f(x) = x²
+
+Kalau kita komposisikan f ∘ g, maka:
+
+(f∘g)(x)=f(g(x))=f(x+2)=(x+2)^2
+
+Jadi fungsi f ∘ g langsung mengubah x menjadi (x + 2)² dalam satu langkah.
+
+
