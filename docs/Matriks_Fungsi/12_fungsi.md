@@ -65,3 +65,13 @@ Biasanyan diasumsikan x ∈ ℝ (bilangan real), kecuali kalau ditulis lain.
 Kadang lebih simpel menjelaskannya pakai kalimat :
 
    "*f* adalah fungsi yang menghitung jumlah angka 1 dalam bentuk string biner".
+
+### 💻 Kode Program
+Dalam ilmu komputer, fungsi juga bisa ditulis dalam bentuk code. Contohnya (pakai python):
+
+```code 
+def f(x) :
+   return 2 * x + 10
+```
+
+Fungsi ini menerima x dan mengembalikan 2x + 10.
