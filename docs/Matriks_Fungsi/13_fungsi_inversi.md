@@ -20,7 +20,8 @@ Bayangkan kita punya fungsi `f` seperti ini:
 f : A → B
 f = {(1, a), (2, b), (3, c)}
 ```
-
+Fungsi *f* ini jelas satu-ke-satu, karena : 
+- Setiap elemen di A hanya punya satu pasangan di B.
 
 
 
