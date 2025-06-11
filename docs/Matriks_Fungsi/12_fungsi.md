@@ -45,4 +45,6 @@ Fungsi punya dua syarat utama :
 Kalau dua syarat ini terpenuhi, maka relasi itu sah disebut fungsi.
 
 ## ✨ Cara Menyatakan Fungsi
-Kamu bsia menuliskan fungsi dalam beberapa cara :
+Kamu bsia menuliskan fungsi dalam beberapa cara : 
+
+### 🔗 Pasangan Terurut
