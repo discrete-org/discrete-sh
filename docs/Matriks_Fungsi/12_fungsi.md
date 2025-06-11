@@ -38,3 +38,5 @@ Kalau *f*(a) = b, artinya elemen a dipetakan ke elemen b di B.
 - **Pre-image** : Elemen input yang menghasilkan suatu output.
 
 ## 🧠 Syarat Fungsi
+Fungsi punya dua syarat utama : 
+1. **Setiap elemen domain harus pakai** - tidak boleh ada yang terlewat.
