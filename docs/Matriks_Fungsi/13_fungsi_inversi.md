@@ -32,3 +32,7 @@ Artinya :
 - f⁻¹(a) = 1
 - f⁻¹(b) = 2
 - f⁻¹(c) = 3
+
+## 🧠 Intinya...
+- Fungsi **inversi** adalah cara untuk “membatalkan” efek dari fungsi awal.
+- 
