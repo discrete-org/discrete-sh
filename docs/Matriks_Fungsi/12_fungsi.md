@@ -35,3 +35,6 @@ Kalau *f*(a) = b, artinya elemen a dipetakan ke elemen b di B.
 - **Codomain** : Himpunan tujuan yang bisa dipetakan (B).
 - **Range** : Semua nilai hasil aktual dari pemetaan (bagian dari B).
 - **Image** : Hasil pemetaan dari sebuah elemen A (output).
+- **Pre-image** : Elemen input yang menghasilkan suatu output.
+
+## 🧠 Syarat Fungsi
