@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# 🧮 Fungsi: Pemetaan dari Masukan ke Hasil
+# 🧠 Fungsi: Pemetaan dari Masukan ke Hasil
 
 Pernah kepikiran kenapa program komputer butuh waktu berbeda saat dijalankan dengan ukuran data yang berbeda? Misalnya, mengalikan matriks 10x10 tentu jauh lebih cepat dibanding 100x100. Nah, ini karena **waktu eksekusi adalah fungsi dari ukuran masukan**.
 
