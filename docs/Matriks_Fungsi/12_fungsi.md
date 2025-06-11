@@ -25,3 +25,7 @@ Kita tulis sebagai:
 ```math
 f : A → B
 ```
+
+Artinya, fungsi f **memetakan** elemen dari himpunan A ke B.
+
+Kalau *f*(a) = b, artinya elemen a di
