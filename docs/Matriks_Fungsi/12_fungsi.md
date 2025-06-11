@@ -48,8 +48,7 @@ Kalau dua syarat ini terpenuhi, maka relasi itu sah disebut fungsi.
 Kamu bsia menuliskan fungsi dalam beberapa cara : 
 
 ### 🔗 Pasangan Terurut 
-Misalnya : *f* = (1,2),(2,4),(3,6)
-
+Misalnya : *f* = (1,2) (2,4) (3,6)
 Artinya : 
 - *f*(1) = 2
 - *f*(2) = 4
