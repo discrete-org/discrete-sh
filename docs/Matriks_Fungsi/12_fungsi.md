@@ -43,3 +43,6 @@ Fungsi punya dua syarat utama :
 2. **Satu input, satu output** - kalau (a,b) dan (a, c) ada dalam fungsi, maka b = c.
 
 Kalau dua syarat ini terpenuhi, maka relasi itu sah disebut fungsi.
+
+## ✨ Cara Menyatakan Fungsi
+Kamu bsia menuliskan fungsi dalam beberapa cara :
