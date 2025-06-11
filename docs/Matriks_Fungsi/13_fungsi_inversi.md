@@ -22,6 +22,9 @@ f = {(1, a), (2, b), (3, c)}
 ```
 Fungsi *f* ini jelas satu-ke-satu, karena : 
 - Setiap elemen di A hanya punya satu pasangan di B.
+- Tidak ada dua elemen A yang menuju ke elemen B yang sama.
+
+Nah, kalau kita balik arah panahnya, kita dapat fungsi inversi f⁻¹:
 
 
 
