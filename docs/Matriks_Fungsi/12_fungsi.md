@@ -31,3 +31,4 @@ Fungsi dapat dispesifisikan dalam berbagai bentuk, diantaranya :
    Fungsi dapat dinyatakan secara eksplisit dalam rangkaian kata-kata. Misalnya "*f* adalah fungsi yang memetakan jumlah 1 bit di dalam suatu *string* biner".
 
 4. Kode program (*source code*) 
+   Fungsi dispesifikasikan dalam bentuk kode program komputer.
