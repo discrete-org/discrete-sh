@@ -14,3 +14,15 @@ Kita bisa bikin fungsi baru dari A langsung ke C, yang disebut **komposisi fungs
 
 ```math
 (f ∘ g)(a) = f(g(a))
+```
+
+Artinya, kita masukkan a ke dalam g, lalu hasilnya kita masukkan ke dalam f. Jadi semacam alur kerja berantai:
+
+→ a masuk ke g
+
+→ hasil dari g(a) masuk ke f
+
+→ keluar f(g(a)) sebagai hasil akhirnya.
+
+## 📌 Ilustrasi Komposisi
+Bayangkan kamu punya dua fungsi:
