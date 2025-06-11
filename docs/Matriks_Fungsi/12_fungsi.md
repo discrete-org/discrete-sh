@@ -41,3 +41,5 @@ Kalau *f*(a) = b, artinya elemen a dipetakan ke elemen b di B.
 Fungsi punya dua syarat utama : 
 1. **Setiap elemen domain harus pakai** - tidak boleh ada yang terlewat.
 2. **Satu input, satu output** - kalau (a,b) dan (a, c) ada dalam fungsi, maka b = c.
+
+Kalau dua syarat ini terpenuhi, maka relasi itu sah disebut fungsi.
