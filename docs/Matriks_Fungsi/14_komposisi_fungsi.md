@@ -2,9 +2,15 @@
 sidebar_position: 14
 ---
 
-# Komposisi Fungsi
-Karena fungsi merupakan bentuk khusus dari relasi, kita juga dapat melakukan komposisi dari dua buah fungsi. Misalkan *g* adalah fungsi dari himpunan A ke himpunan B, dan *f* adalah fungsi dari himpunan B ke himpunan C. Komposisi *f* dan *g*, dinotasikan dengan *f*o*g*, adalah fungsi dari A ke C yang didefinisikan oleh 
+# 🔗 Komposisi Fungsi
 
-(*f*o*g*)(*a*) = *f*(*g*(*a*))
+Pernah denger pepatah “satu langkah membawa ke langkah berikutnya”? Nah, konsep itu mirip dengan **komposisi fungsi**. Kalau kamu punya dua fungsi yang terhubung, kamu bisa “menyambung” mereka jadi satu fungsi baru!
 
-Dengan kata lain, *f*o*g* adalah fungsi yang memetakan nilai dari *g*(*a*) ke *f*.
+Misalkan:
+- `g` adalah fungsi dari himpunan A ke B,
+- `f` adalah fungsi dari B ke C.
+
+Kita bisa bikin fungsi baru dari A langsung ke C, yang disebut **komposisi fungsi** dan ditulis sebagai:
+
+```math
+(f ∘ g)(a) = f(g(a))
