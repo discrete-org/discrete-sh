@@ -7,4 +7,12 @@ Jika *f* adalah fungsi berkoresponden satu-ke-satu dari A ke B, maka kita dapat 
 
 Fungsi yang berkoresponden satu-ke-satu sering dinamakan juga fungsi yang *invertible* (dapat dibalikan), karena kita dapat mendefinisikan fungsi balikannya. Sebuah fungsi dikatakan *not invertible* (tidak dapat dibalikan) jika ia bukan fungsi yang berkoresponden satu-ke-satu, karena fungsi balikannya tidak ada.
 
-Contoh fungsi inversi
+## 🔁 Contoh Fungsi Inversi
+
+Misalkan kita punya fungsi `f` yang memetakan elemen dari A ke B seperti berikut:
+
+```math
+f : A → B
+f = {(1, a), (2, b), (3, c)}
+```
+
