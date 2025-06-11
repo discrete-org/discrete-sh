@@ -35,4 +35,4 @@ Artinya :
 
 ## 🧠 Intinya...
 - Fungsi **inversi** adalah cara untuk “membatalkan” efek dari fungsi awal.
-- 
+- Hanya fungsi yang **satu-ke-satu** yang bisa dibalik.
