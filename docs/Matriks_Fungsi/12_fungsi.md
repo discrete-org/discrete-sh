@@ -29,3 +29,5 @@ f : A → B
 Artinya, fungsi f **memetakan** elemen dari himpunan A ke B.
 
 Kalau *f*(a) = b, artinya elemen a dipetakan ke elemen b di B.
+
+## 🔍 Istilah-istilah Penting
