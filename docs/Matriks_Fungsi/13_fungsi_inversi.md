@@ -36,3 +36,4 @@ Artinya :
 ## 🧠 Intinya...
 - Fungsi **inversi** adalah cara untuk “membatalkan” efek dari fungsi awal.
 - Hanya fungsi yang **satu-ke-satu** yang bisa dibalik.
+- Kalau fungsi f memetakan a ke b, maka fungsi f⁻¹ akan memetakan b balik ke a.
