@@ -53,3 +53,8 @@ Artinya :
 - *f*(1) = 2
 - *f*(2) = 4
 - *f*(3) = 6
+
+### 🧮 Rumus / Formula
+Contoh klasik dari aljabar atau kalkulus :
+
+*f*(*x*) = 2*x* + 10*f*(*x*) = *x*^2 *f*(*x*) = 1 / *x*
