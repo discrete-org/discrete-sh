@@ -44,3 +44,11 @@ Dari sini, kita bisa membuat dugaan bahwa:
 **"Jumlah n bilangan ganjil positif pertama adalah n²"**
 
 Pola ini terlihat konsisten, tetapi lagi-lagi, dugaan saja tidak cukup. Untuk membuktikan bahwa ini benar bagi semua n, kita perlu pendekatan yang terstruktur, dan induksi matematika adalah alat yang tepat untuk itu.
+
+## 🧠 Contoh Proposisi Lainnya
+Beberapa proposisi menarik lainnya yang sering muncul seputar bilangan bulat, antara lain:
+1. Setiap bilangan bulat positif n (n > 1) dapat dinyatakan sebagai hasil kali dari satu atau lebih bilangan prima.
+2. Untuk setiap n > 1, hasil dari n³ + 2n selalu merupakan kelipatan 3.
+3. Setiap jumlah n sen yang lebih dari 8 sen dapat dibayarkan hanya dengan perangko 3 sen dan 5 sen.
+4. Jika terdapat n orang dalam suatu pesta dan setiap orang berjabat tangan satu kali dengan yang lain, maka total jabat tangan yang terjadi adalah n(n − 1)/2.
+5. Sebuah himpunan dengan n elemen memiliki tepat 2ⁿ himpunan bagian.
