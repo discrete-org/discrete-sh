@@ -21,3 +21,4 @@ Jika kita uji dengan *n = 5*, hasilnya seperti ini:
 1 + 2 + 3 + 4 + 5 = 15  
 n(n + 1)/2 = 5(6)/2 = 15 ✅
 ```
+
