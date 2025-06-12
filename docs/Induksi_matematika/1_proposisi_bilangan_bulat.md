@@ -24,4 +24,7 @@ n(n + 1)/2 = 5(6)/2 = 15 ✅
 
 Benar, hasilnya cocok. Tetapi,apakah ini cukup untuk membuktikan bahwa rumus tersebut berlaku untuk setiap bilangan bulat positif? Tentu tidak.
 
-Kita tidak bisa hanya mencoba beberapa nilai kecil dan langsung menyimpulkan kebenarannya. sebab, jumlah bilangan bulat positif itu tidak terbatas.
+Kita tidak bisa hanya mencoba beberapa nilai kecil dan langsung menyimpulkan kebenarannya. sebab, jumlah bilangan bulat positif itu tidak terbatas. Maka dari itu, kita memerlukan metode pembuktian yang lebih sistematis dan menyeluruh — salah satunya adalah **embuktian induksi matematika**.
+
+## 📌 Contoh 2 — Menjumlahkan Bilangan Ganjil
+Sekarang, kita coba amati pola lain, yaitu jumlah n bilangan ganjil positif pertama:
