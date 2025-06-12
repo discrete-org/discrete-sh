@@ -52,3 +52,5 @@ Beberapa proposisi menarik lainnya yang sering muncul seputar bilangan bulat, an
 3. Setiap jumlah n sen yang lebih dari 8 sen dapat dibayarkan hanya dengan perangko 3 sen dan 5 sen.
 4. Jika terdapat n orang dalam suatu pesta dan setiap orang berjabat tangan satu kali dengan yang lain, maka total jabat tangan yang terjadi adalah n(n − 1)/2.
 5. Sebuah himpunan dengan n elemen memiliki tepat 2ⁿ himpunan bagian.
+
+Semua proposisi di atas bisa dibuktikan dengan teknik induksi matematika. Maka dari itu, pada bagian berikutnya kita akan mempelajari bagaimana cara menggunakan prinsip induksi ini — tenang saja, kita akan pelajari langkah demi langkah dengan cara yang santai dan tetap logis.
