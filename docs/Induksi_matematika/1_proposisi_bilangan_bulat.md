@@ -2,36 +2,22 @@
 sidebar_position: 1
 ---
 
-# Proposisi Perihal Bilangan Bulat
-Proposisi yang menyangkut perihal bilangan bulat cukup banyak dijumpai di dalam matematika diskrit maupun di dalam ilmu komputer. Proposisi tersebut mengkaitkan suatu masalah yang dihubungkan dengan bilangan bulat. Untuk memberikan ilustrasi mengenai proposisi seperti apa yang dimaksudkan, marilah tinjau dua contoh proposisi sederhana sebagai berikut. 
+# 📏 Proposisi tentang Bilangan Bulat
 
-Di dalam matematika, banyak teorema yang menyatakan bahwa *p*(*n*) benar untuk semua bilangan bulat positif *n*, yang dalam hal ini *p*(*n*) disebut juga fungsi proposisi. Contoh pertama, misalkan *p*(*n*) adalah proposisi yang menyatakan : "Jumlah bilangan bulat positif dari 1 sampai *n* adalah *n*(*n* + 1)/2". Buktikan bahwa *p*(*n*) benar.
+Dalam matematika diskrit maupun ilmu komputer, kita sering menemukan pernyataan atau **proposisi** yang berkaitan dengan **bilangan bulat**. Proposisi semacam ini biasanya menyampaikan pola atau sifat khusus dari bilangan bulat, dan cukup sering dijadikan dasar untuk pembuktian logis yang kuat.
 
-Kalau kita coba dengan beberapa nilai *n*, memang timbul dugaan bahwa *p*(*n*) benar. Misalnya untuk *n* = 5, *p*(5) adalah: Jumlah bilangan bulat positif dari 1 sampai 5 adalah 5(5+1)/2. Terlihat bahwa 
+Agar lebih konkret, mari kita bahas dua contoh sederhana terlebih dahulu.
 
-1 + 2 + 3 + 4+ 5 = 15 = 5(6)/2
+---
 
-Untuk nilai-nilai *n* yang lain kita akan dapatkan kesimpulan serupa. Sayangnya, instansiasi seperti *p*(5) tidak dapat berlaku sebagai bukti bahwa *p*(*n*) benar untuk seluruh *n*. Kita memang sudah menunjukan bahwa *n* = 5 berada di dalam himpunan kebenaran *p*(*n*). Tetapi, kita tahu bahwa 5 bukanlah satu-satunya bilangan bulat positif. Karena bilangan bulat positif tidak terhingga banyaknya, kita tentu tidak mungkin mencoba seluruhnya untuk membuktikan *p*(*n*) benar. Jadi, kita tidak dapat menggunakan pendekatan semacam ini untuk membuktikan kebenaran pernyataan perhal bilangan bulat.
+## 📌 Contoh 1 — Menjumlahkan Bilangan dari 1 sampai *n*
 
-Contoh kedua, kita ingin menemukan rumus jumlah dari *n* buah bilangan ganjil positif yang pertama. Misalnya untuk *n* = 1,2,3,4,5 kita mengamati jumlah *n* bilangan ganjil positif pertama adalah :
+Bayangkan ada sebuah proposisi *p(n)* yang berbunyi:  
+**"Jumlah bilangan bulat positif dari 1 hingga *n* adalah *n(n + 1)/2*"**
 
-*n* = 1 => 1 = 1
+Jika kita uji dengan *n = 5*, hasilnya seperti ini:
 
-*n* = 2 => 1 + 3 = 4
-
-*n* = 3 => 1 + 3 + 5 = 9
-
-*n* = 4 => 1 + 3 + 5 + 7 = 16
-
-*n* = 5 => 1 + 3 + 5 + 7 + 9 = 25
-
-Dari nilai-nilai penjumlahan itu kita menduga bahwa jumlah *n* buah bilangan ganjil positif pertama adalah *n*^2. Kita perlu membuktikan bahwa perkiraan kita tersebut benar jka memang itu faktanya. Kita perlu membuktikan bahwa perkiraan kita tersebut benar jika memang itu faktanya. Bagaimana cara membuktikannya dengan induksi matematik?
-
-Contoh-contoh proposisi perihal bilangan bulat yang lainnya misalnya :
-1. Setiap bilangan bulat positif *n* (*n* > 2) dapat dinyatakan sebagai perkalian dari (satu atau lebih) bilangan prima.
-2. Untuk semua n > 1, n^3 + 2n adalah kelipatan 3
-3. Untuk membayar biaya pos sebesar *n* sen dolar (*n* > 8) selalu dapat digunakan hanya perangko 3 sen dan 5 sen dolar.
-4. Di dalam sebuah pesta, setiap tamu berjabat tangan dengan yang terjadi adalah *n*(*n* - 1)/2
-5. Banyaknya himpunan bagian yang dapat dibentuk dari sebuah himpunan yang beranggotakan *n* elemen adalah 2^n
-
-Proposisi-proposisi semacam di ataslah yang dapat dibuktikan dengan induksi matematika. Mari kita pahami cara pembuktian dengan induksi matematika, dimulai dengan prinsip induksi sederhana terlebih dahulu.
+```math
+1 + 2 + 3 + 4 + 5 = 15  
+n(n + 1)/2 = 5(6)/2 = 15 ✅
+```
