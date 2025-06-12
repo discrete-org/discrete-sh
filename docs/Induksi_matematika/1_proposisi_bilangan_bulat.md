@@ -38,3 +38,9 @@ n = 3 → 1 + 3 + 5 = 9 = 3²
 n = 4 → 1 + 3 + 5 + 7 = 16 = 4²  
 
 n = 5 → 1 + 3 + 5 + 7 + 9 = 25 = 5²
+
+Dari sini, kita bisa membuat dugaan bahwa:
+
+**"Jumlah n bilangan ganjil positif pertama adalah n²"**
+
+Pola ini terlihat konsisten, tetapi lagi-lagi, dugaan saja tidak cukup. Untuk membuktikan bahwa ini benar bagi semua n, kita perlu pendekatan yang terstruktur, dan induksi matematika adalah alat yang tepat untuk itu.
