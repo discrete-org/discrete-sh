@@ -28,3 +28,13 @@ Kita tidak bisa hanya mencoba beberapa nilai kecil dan langsung menyimpulkan keb
 
 ## 📌 Contoh 2 — Menjumlahkan Bilangan Ganjil
 Sekarang, kita coba amati pola lain, yaitu jumlah n bilangan ganjil positif pertama:
+
+n = 1 → 1 = 1²  
+
+n = 2 → 1 + 3 = 4 = 2²  
+
+n = 3 → 1 + 3 + 5 = 9 = 3²  
+
+n = 4 → 1 + 3 + 5 + 7 = 16 = 4²  
+
+n = 5 → 1 + 3 + 5 + 7 + 9 = 25 = 5²
