@@ -23,3 +23,5 @@ n(n + 1)/2 = 5(6)/2 = 15 ✅
 ```
 
 Benar, hasilnya cocok. Tetapi,apakah ini cukup untuk membuktikan bahwa rumus tersebut berlaku untuk setiap bilangan bulat positif? Tentu tidak.
+
+Kita tidak bisa hanya mencoba beberapa nilai kecil dan langsung menyimpulkan kebenarannya. sebab, jumlah bilangan bulat positif itu tidak terbatas.
