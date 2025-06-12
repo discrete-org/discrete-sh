@@ -22,3 +22,4 @@ Jika kita uji dengan *n = 5*, hasilnya seperti ini:
 n(n + 1)/2 = 5(6)/2 = 15 ✅
 ```
 
+Benar, hasilnya cocok. Tetapi,apakah ini cukup untuk membuktikan bahwa rumus tersebut berlaku untuk setiap bilangan bulat positif? Tentu tidak.
