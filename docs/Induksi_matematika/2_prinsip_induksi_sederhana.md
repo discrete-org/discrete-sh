@@ -50,5 +50,3 @@ Bayangkan barisan batu domino yang berdiri sejajar. Kalau kita dorong domino per
 Nah, itulah inti dari **induksi matematika**. Dorong satu (basis), pastikan hubungan antar domino kuat (langkah induksi), dan semuanya akan ikut rebah (semua *p(n)* jadi benar)!
 
 ---
-
-Di bagian berikutnya, kita akan lihat bagaimana prinsip ini diterapkan dalam contoh nyata. Ayo lanjutkan ke contoh dan latihan supaya konsep ini makin nempel! 💡

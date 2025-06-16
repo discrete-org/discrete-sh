@@ -10,3 +10,5 @@ Misalkan p(n) adalah pernyataan perihal bilangan bulat dan kita ingin membuktika
 2. jika p(n) benar maka p(n + 1) benar untuk setiap n > n0
    
 sehingga p(n) benar untuk semua bilangan bulat n > n0.
+
+Contoh nya disini
