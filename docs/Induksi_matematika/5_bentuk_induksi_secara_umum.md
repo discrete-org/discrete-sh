@@ -20,4 +20,6 @@ Bentuk induksi secara umum dapat dituliskan sebagai berikut:
 
 Misalkan X terurut dengan baik oleh "<", dan p(x) adalah pernyataan perihal elemen x dari X. Kita ingin membuktikan bahwa p(x) benar untuk semua x € X. . Untuk membuktikan ini, kita hanya perlu menunjukkan bahwa:
 1. p(x0) benar, yang dalam hal ini x0 adalah elemen terkecil di dalam X, dan
-2. jika p(y) benar untuk y £ x, maka p(x) juga benar untuk setiap x > x0 di dalam X
+2. jika p(y) benar untuk y £ x, maka p(x) juga benar untuk setiap x > x0 di dalam X.
+
+sehingga p(x) benar untuk semua x ∈ X.
