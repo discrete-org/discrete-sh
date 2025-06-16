@@ -15,3 +15,7 @@ Himpunan bilangan riil tak-negatif tidak terurut dengan baik oleh relasi "<". Hi
 
 Himpunan pasangan terurut bilangan bulat tidak negatif terurut dengan baik oleh relasi "<", dengan kata lain "<" didefinisikan oleh (n1, n2) (n3 < n4) jika dan
 hanya jika (n1 < n3) atau (n1 = n3 dan n2 < n4). Properti (1), (1), dan (iii) dimiliki oleh himpunan ini.
+
+Bentuk induksi secara umum dapat dituliskan sebagai berikut:
+
+Misalkan X terurut dengan baik oleh "<", dan p(x) adalah pernyataan perihal elemen x dari X. Kita ingin membuktikan bahwa p(x) benar untuk semua x € X. . Untuk membuktikan ini, kita hanya perlu menunjukkan bahwa:
