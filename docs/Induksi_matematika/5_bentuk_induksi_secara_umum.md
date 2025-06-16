@@ -12,3 +12,6 @@ himpunan X dikatakan terurut dengan baik dengan "") bila memiliki properti berik
 3. Jika A adalah himpunan bagian tidak kosong dari X, terdapat elemen x ∈ A sedemikian sehingga x < y untuk semua y ∈ A. Dengan kata lain, setiap himpunan bagian tidak kosong dari X mengandung "elemen terkecil".
 
 Himpunan bilangan riil tak-negatif tidak terurut dengan baik oleh relasi "<". Himpunan ini mempunyai properti (1) dan (2) tetapi tidak (3). Sebagai contoh, himpunan semua bilangan riil yang lebih besar dari 1, yaitu `{ x | x adalah bilangan riil dan x > 1 }` , tidak mengandung elemen terkecil.
+
+Himpunan pasangan terurut bilangan bulat tidak negatif terurut dengan baik oleh relasi "<", dengan kata lain "<" didefinisikan oleh (n1, n2) (n3 < n4) jika dan
+hanya jika (n1 < n3) atau (n1 = n3 dan n2 < n4). Properti (1), (1), dan (iii) dimiliki oleh himpunan ini.
