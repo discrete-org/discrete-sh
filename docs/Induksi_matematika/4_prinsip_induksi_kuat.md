@@ -13,3 +13,7 @@ kita hanya perlu menunjukkan bahwa:
 
 sehingga p(n) benar untuk semua bilangan bulat n > n0.
 
+Catatlah bahwa versi induksi yang lebih kuat ini mirip dengan induksi sederhana, kecuali bahwa pada langkah 2 kita mengambil hipotesis induksi yang lebih kuat bahwa semua pernyataan p(1), p(2), ..., p(n) adalah benar daripada hipotesis yang menyatakan bahwa p(n) benar (pada induksi sederhana). Prinsip induksi kuat memungkinkan kita mencapai kesimpulan yang sama meskipun memberlakukan andaian yang lebih banyak.
+
+
+
