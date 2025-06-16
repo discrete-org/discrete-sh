@@ -8,3 +8,5 @@ Kadang-kadang kita ingin membuktikan bahwa pernyataan p(n) benar untuk semua bil
 Misalkan p(n) adalah pernyataan perihal bilangan bulat dan kita ingin membuktikan bahwa p(n) benar untuk semua bilangan bulat n > n0. Untuk membuktikan ini, kita hanya perlu menunjukkan. bahwa:
 1. p(n0) benar, dan
 2. jika p(n) benar maka p(n + 1) benar untuk setiap n > n0
+   
+sehingga p(n) benar untuk semua bilangan bulat n > n0.
