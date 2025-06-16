@@ -22,4 +22,4 @@ Misalkan X terurut dengan baik oleh "<", dan p(x) adalah pernyataan perihal elem
 1. p(x0) benar, yang dalam hal ini x0 adalah elemen terkecil di dalam X, dan
 2. jika p(y) benar untuk y £ x, maka p(x) juga benar untuk setiap x > x0 di dalam X.
 
-sehingga p(x) benar untuk semua x ∈ X.
+sehingga p(x) benar untuk semua x eX.
