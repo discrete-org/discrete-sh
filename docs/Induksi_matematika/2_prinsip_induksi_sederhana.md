@@ -9,3 +9,5 @@ Misalkan p(n) adalah proposisi perihal bilangan bulat positif dan kita ingin mem
 
 1. p(l) benar, dan
 2. jika p(n) benar, maka p(n+1) juga benar untuk setiap n > 1.
+   
+Sehingga p(n) benar untuk semua bilangan bulat positif n.
