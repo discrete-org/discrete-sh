@@ -9,4 +9,6 @@ DEFINISI 4.1. Relasi biner "«" pada himpunan X dikatakan terurut dengan baik (a
 himpunan X dikatakan terurut dengan baik dengan "") bila memiliki properti berikut:
 1. Diberikan x,y,z ∈ X , jika x < y dan y < z, maka x < z,
 2. Diberikan x,y ∈ X. Salah satu dari kemungkinan ini benar: x < y atau y < x atau x = y.
-3. Jika A adalah himpunan bagian tidak kosong dari X, terdapat elemen x ∈ A sedemikian sehingga x < y untuk semua y ∈ A. Dengan kata lain, setiap himpunan bagian tidak kosong dari X mengandung "elemen terkecil"
+3. Jika A adalah himpunan bagian tidak kosong dari X, terdapat elemen x ∈ A sedemikian sehingga x < y untuk semua y ∈ A. Dengan kata lain, setiap himpunan bagian tidak kosong dari X mengandung "elemen terkecil".
+
+Himpunan bilangan riil tak-negatif tidak terurut dengan baik oleh relasi "<". Himpunan ini mempunyai properti (1) dan (2) tetapi tidak (3). Sebagai contoh, himpunan semua bilangan riil yang lebih besar dari 1, yaitu `{ x | x adalah bilangan riil dan x > 1 }` , tidak mengandung elemen terkecil.
