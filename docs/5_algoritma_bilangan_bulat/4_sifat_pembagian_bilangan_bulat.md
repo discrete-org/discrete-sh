@@ -8,3 +8,7 @@ Pembahasan bilangan bulat kita mulai dari sifat pembagian (division). Mengapa pe
 DEFINISI 5.2. Misalkan *a* dan *b* adalah dua buah bilangan bulat dengan syarat *a* ≠ 0. Kita menyatakan bahwa *a* **habis membagi** *b* (*a divides b*) jika terdapat bilangan bulat *c* sedemikian sehingga *b* = *ac*.
 
 Notasi : *a* | *b* jika *b* = *ac*, *c* ∈ **Z** dan *a* ≠ 0 
+
+Dengan kata lain, jika *b* dibagi dengan *a* , maka hasil pembagiannya berupa bilangan bulat. Kadang-kadang pernyataan “*a* habis membagi *b*“ ditulis juga “*b* **kelipatan** *a*”.
+
+
