@@ -7,7 +7,7 @@ Sebuah masalah dipecahkan dengan mendeksripsikan langkah-langkah penyelesaiannya
 
 Algoritma adalah urutan logis langkah-langkah penyelesaian masalah yang disusun secara sistematis.
 
-
+Ditinjau dari asal usul kata, kata algoritma sendiri mempunyai sejarah yang aneh. Kata ini tidak muncul di dalam kamus Webster sampai akhir tahun 1957. Orang hanya menemukan kata algorism yang berarti proses menghitung dengan angka Arab. Anda dikatakan algorist jika anda menggunakan angka Arab. Para ahli bahasa berusaha menemukan asal kata algorism ini namun hasilnya kurang memuaskan. Akhirnya para ahli sejarah matematika menemukan asal mula kata tersebut. Kata algorism berasal dari nama penulis buku Arab yang terkenal, yaitu Abu Ja'far Muhammad ibnu Musa al-Khuwarizmi (al-Khuwarizmi dibaca orang Barat menjadi algorism). Al-Khuwarizmi menulis buku yang berjudul Kitab al jabar wal-mugabala, yang artinya “Buku pemugaran dan pengurangan” (The book of restoration and reduction). Dari judul buku itu kita juga memperoleh akar kata “aljabar” (algebra). Perubahan dari kata algorism menjadi algorithm muncul karena kata algorism sering dikelirukan dengan arithmetic, sehingga akhiran -sm berubah menjadi -thm. Karena perhitungan dengan angka Arab sudah menjadi hal yang sudah biasa/lumrah, maka lambat laun kata algorithm berangsur-angsur dipakai sebagai metode perhitungan (komputasi) secara umum, sehingga kehilangan makna aslinya. Dalam bahasa Indonesia, kata algorithm diserap menjadi algoritma.
 
 
 
