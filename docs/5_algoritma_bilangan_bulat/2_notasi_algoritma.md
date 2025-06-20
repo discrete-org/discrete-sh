@@ -15,5 +15,5 @@ Algoritma Cari Elemen Terbesar
 
 Notasi algoritma dengan kalimat deskriptif bagus untuk algoritma yang pendek, namun untuk masalah yang algoritmanya besar, notasi ini tidak mangkus. Selain itu, notasi kalimat deskriptif kadang-kadang dianggap kurang bisa menjelaskan sebuah algoritma.
 
-
+Selain dengan notasi deksriptif, algoritma juga dapat digambarkan dalam notasi bahasa komputer lebih tepatnya bahasa pemrograman
 
