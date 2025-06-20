@@ -12,4 +12,7 @@ Algoritma Cari Elemen Terbesar
 2. Bandingkan *maks* dengan elemen *a2*. Jika *a2*, lebih besar dari *maks*, maka nilai *maks* diganti dengan *a2*.
 3. Ulangi langkah 2 untuk elemen-elemen berikutnya (*a3*, *a4*, ... *an*).
 4. Berhenti jika tidak ada lagi elemen yang dibandingkan. Dalam hal ini, *maks* berisi nilai dari elemen terbesar.
+5. Notasi algoritma dengan kalimat deskriptif bagus untuk algoritma yang pendek, namun untuk masalah yang algoritmanya besar, notasi ini tidak mangkus. Selain itu, notasi kalimat deskriptif kadang-kadang dianggap kurang bisa menjelaskan sebuah algoritma.
+
+
 
