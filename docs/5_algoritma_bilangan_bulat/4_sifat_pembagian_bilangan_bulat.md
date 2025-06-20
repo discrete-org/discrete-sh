@@ -11,4 +11,6 @@ Notasi : *a* | *b* jika *b* = *ac*, *c* ∈ **Z** dan *a* ≠ 0
 
 Dengan kata lain, jika *b* dibagi dengan *a* , maka hasil pembagiannya berupa bilangan bulat. Kadang-kadang pernyataan “*a* habis membagi *b*“ ditulis juga “*b* **kelipatan** *a*”.
 
+Sebagai contoh, 4 | 12 karena 12 / 4 = 3 (bilangan bulat) atau 12 = 4 x 3. Tetapi 4 tidak habis membagi 13 karena 13 / 4 = 3.25 (bukan bilangan bulat).
+
 
