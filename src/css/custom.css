@@ -1,30 +1,64 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: rgb(66, 133, 244); /* Blue */
-  --ifm-color-primary-dark: rgb(52, 105, 248); /* Dark Blue */
-  --ifm-color-primary-darker: rgb(35, 80, 200); /* Darker Blue */
-  --ifm-color-primary-darkest: rgb(28, 50, 170); /* Darkest Blue */
-  --ifm-color-primary-light: rgb(102, 179, 255); /* Light Blue */
-  --ifm-color-primary-lighter: rgb(153, 204, 255); /* Lighter Blue */
-  --ifm-color-primary-lightest: rgb(204, 229, 255); /* Very Light Blue */
+  --ifm-color-primary: #000000; /* Black */
+  --ifm-color-primary-dark: #000000;
+  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
+
+  --ifm-background-color: #ffffff; /* White background */
+  --ifm-font-color-base: #000000; /* Black text */
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --docusaurus-highlighted-code-line-bg: #000000; /* Code line highlight in black */
+  --ifm-code-background: #ffffff;
+  --ifm-link-color: #000000;
+
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #ffffff;
+  --ifm-menu-color: #000000;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark theme version (inverts the color palette) */
 [data-theme='dark'] {
-  --ifm-color-primary: #1E90FF; /* Dodger Blue */
-  --ifm-color-primary-dark: #1C7ED6; /* Darker Dodger Blue */
-  --ifm-color-primary-darker: #166BB4; /* Even Darker Blue */
-  --ifm-color-primary-darkest: #135A8E; /* Darkest Blue */
-  --ifm-color-primary-light: #58A6FF; /* Light Blue */
-  --ifm-color-primary-lighter: #7DB9FF; /* Lighter Blue */
-  --ifm-color-primary-lightest: #A0D4FF; /* Very Light Blue */
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #ffffff; /* White */
+  --ifm-color-primary-dark: #ffffff;
+  --ifm-color-primary-darker: #ffffff;
+  --ifm-color-primary-darkest: #ffffff;
+  --ifm-color-primary-light: #000000;
+  --ifm-color-primary-lighter: #000000;
+  --ifm-color-primary-lightest: #000000;
+
+  --ifm-background-color: #000000; /* Black background */
+  --ifm-font-color-base: #ffffff; /* White text */
+  --docusaurus-highlighted-code-line-bg: #ffffff;
+  --ifm-code-background: #000000;
+  --ifm-link-color: #ffffff;
+
+  --ifm-navbar-background-color: #000000;
+  --ifm-footer-background-color: #000000;
+  --ifm-menu-color: #ffffff;
+}
+
+/* Optional brutalist extras */
+* {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  font-family: monospace, 'Courier New', Courier;
+}
+
+button, .button {
+  border: 2px solid #000000 !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+[data-theme='dark'] button, 
+[data-theme='dark'] .button {
+  border: 2px solid #ffffff !important;
+  background-color: #000000 !important;
+  color: #ffffff !important;
 }
