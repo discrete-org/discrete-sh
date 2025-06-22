@@ -35,32 +35,24 @@ export default function HomepageFeatures() {
             </div>
           </Link>
 
-          <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
+          <Link to="/docs/category/induksi-matematika" className={styles.featureItem}>
             <div>
-              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
+              <h3 className={styles.featureTitle}>Induksi Matematika</h3>
               <p className={styles.featureDescription}>
-              Susun datanya, hubungkan elemennya, temukan polanya
+              Langkah demi langkah, buktikan kebenaran dengan induksi
               </p>
             </div>
           </Link>
 
-           <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
+           <Link to="/docs/category/algoritma--bilangan-bulat" className={styles.featureItem}>
             <div>
-              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
+              <h3 className={styles.featureTitle}>Algoritma & Bilangan</h3>
               <p className={styles.featureDescription}>
-              Susun datanya, hubungkan elemennya, temukan polafadfdafadanya
+              Langkah-langkah terstruktur, hitung dengan bilangan bulat
               </p>
             </div>
           </Link>
 
-          <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
-            <div>
-              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
-              <p className={styles.featureDescription}>
-              Susun datanya, hubungkan elemennya, temukan polanya
-              </p>
-            </div>
-          </Link>
           
         </div>
       </div>

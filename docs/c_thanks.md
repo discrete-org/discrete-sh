@@ -2,16 +2,16 @@
 sidebar_position: 3
 ---
 
-# 🙌 Terima Kasih Banyak!
+# 🎓 Ucapan Terima Kasih
 
-Pertama-tama, mari kita angkat secangkir kopi virtual dan beri tepuk tangan meriah untuk:
+Sebelum membuka materi ini, izinkan saya menyampaikan apresiasi yang sebesar-besarnya kepada pihak-pihak yang telah berkontribusi secara langsung maupun tidak langsung dalam penyusunan tulisan ini:
 
-- **Pak Rinaldi Munir**, sang legenda Matdis (*Matematika Diskrit*), yang bukunya jadi penolong sejati dalam menyusun tulisan ini. Tanpa beliau, mungkin saya masih tersesat di dunia logika!
+- **Bapak Rinaldi Munir**, tokoh inspiratif dalam bidang *Matematika Diskrit* yang karya tulisnya menjadi sumber rujukan utama dalam pembuatan materi ini. Tanpa beliau, penjelajahan logika dan teori himpunan mungkin akan terasa jauh lebih menantang.
 
-- **Keluarga tercinta** — Ama & Apa, sumber energi dan wifi cinta tanpa batas; Mas Danu, sang motivator pribadi 24/7; serta Afnan & Ajeng, duo adik kesayangan yang selalu bikin hidup saya lebih rame dan bermakna. Kalian itu buff saya dalam game kehidupan! ❤️
+- **Keluarga tercinta**, terutama Ama dan Apa yang senantiasa menjadi sumber semangat dan dukungan tanpa syarat; Mas Danu yang tak henti memberikan dorongan dan motivasi; serta Afnan dan Ajeng, adik-adik tersayang yang selalu menghadirkan keceriaan dan warna dalam kehidupan sehari-hari.
 
-- **Ira Hoirani**, desainer kece yang bikin situs ini tampil glowing tanpa skincare. Serius, desainnya secantik senyumnya. 😉
+- **Ira Hoirani**, desainer visual yang dengan kreativitasnya berhasil menyajikan tampilan situs ini menjadi lebih estetik dan fungsional. Terima kasih atas sentuhan artistik yang sangat berarti.
 
 ---
 
-Semoga tulisan ini bisa bikin kamu lebih *ngeh* sama logika dan Matdis, dan semoga juga nggak bikin pusing tujuh keliling! 😄
+Semoga materi ini dapat membantu Anda memahami konsep logika dan Matematika Diskrit dengan lebih baik. Harapannya, penjelasan yang diberikan tidak hanya informatif, tetapi juga menyenangkan untuk dipelajari. ✨
