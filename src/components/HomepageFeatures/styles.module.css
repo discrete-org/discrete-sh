@@ -38,7 +38,7 @@
 }
 
 .featureItem {
-  background-color: #ffffff;
+  background-color: #ffffff; /* Yellow background */
   padding: 20px;
   border: 2px solid #000000;
   box-shadow: 8px 8px 0 #0066ff;
@@ -58,7 +58,7 @@
   color: #000000;
   border: 2px solid auto;
   transform: translate(-2px, -2px);
-  box-shadow: 12px 12px 0 #0066ff
+  box-shadow: 12px 12px 0 #F6E27F;
 }
 
 .featureItem:focus {
