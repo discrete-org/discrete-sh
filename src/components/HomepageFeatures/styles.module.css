@@ -1,8 +1,8 @@
 .features {
   padding: 50px;
-  background-color: #f0f4f8;
+  background-color: auto; /* White background */
   text-align: center;
-  color: #333;
+  color: auto; /* Black text */
 }
 
 .container {
@@ -13,14 +13,20 @@
 
 .title {
   font-size: 2.5em;
-  color: #2c3e50;
+  color: #000000;
   margin-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  border-bottom: 2px solid #000000;
+  display: inline-block;
+  padding-bottom: 5px;
 }
 
 .description {
   font-size: 1.2em;
-  color: #7f8c8d;
+  color: #000000;
   margin-bottom: 40px;
+  font-style: italic;
 }
 
 .featureList {
@@ -34,46 +40,52 @@
 .featureItem {
   background-color: #ffffff;
   padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  flex: 1;
+  border: 2px solid #000000;
+  box-shadow: 8px 8px 0 #0066ff;
   min-width: 250px;
   box-sizing: border-box;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease, border 0.2s ease;
   text-decoration: none !important;
   cursor: pointer;
   display: block;
-  color: inherit;
+  color: #000000;
+  border-radius: 0;
+  font-family: monospace;
 }
 
 .featureItem:hover {
-  background-color: #ecf0f1;
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
-  transform: translateY(-5px);
+  background-color: auto;
+  color: #000000;
+  border: 2px solid auto;
+  transform: translate(-2px, -2px);
+  box-shadow: 12px 12px 0 #0066ff
 }
 
 .featureItem:focus {
-  outline: 2px solid #2980b9;
+  outline: 3px dashed #000000;
   outline-offset: 4px;
 }
 
 .featureItem:hover .featureTitle,
 .featureItem:hover .featureDescription {
+  color: #000000;
   text-decoration: none;
-  color: #2c3e50;
 }
 
 .featureTitle {
   font-size: 1.5em;
-  color: #2980b9;
+  color: #000000;
   margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
   text-decoration: none;
 }
 
 .featureDescription {
   font-size: 1em;
-  color: #95a5a6;
+  color: #000000;
   text-decoration: none;
+  line-height: 1.6;
 }
 
 @media (max-width: 768px) {

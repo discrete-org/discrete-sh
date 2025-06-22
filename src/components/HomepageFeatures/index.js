@@ -34,6 +34,33 @@ export default function HomepageFeatures() {
               </p>
             </div>
           </Link>
+
+          <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
+            <div>
+              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
+              <p className={styles.featureDescription}>
+              Susun datanya, hubungkan elemennya, temukan polanya
+              </p>
+            </div>
+          </Link>
+
+           <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
+            <div>
+              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
+              <p className={styles.featureDescription}>
+              Susun datanya, hubungkan elemennya, temukan polafadfdafadanya
+              </p>
+            </div>
+          </Link>
+
+          <Link to="/docs/category/matrix-relasi--fungsi" className={styles.featureItem}>
+            <div>
+              <h3 className={styles.featureTitle}>Matrix, Relasi & Fungsi</h3>
+              <p className={styles.featureDescription}>
+              Susun datanya, hubungkan elemennya, temukan polanya
+              </p>
+            </div>
+          </Link>
           
         </div>
       </div>

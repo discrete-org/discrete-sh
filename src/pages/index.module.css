@@ -1,13 +1,12 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: auto;
+  color: auto;
+  border: 2px solid #000000;
+  font-family: monospace;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +19,29 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.buttons a,
+.buttons button {
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 5px 5px 0 #0066ff; /* Shadow biru */
+  transition: all 0.15s ease-in-out;
+  text-decoration: none;
+}
+
+.buttons a:hover,
+.buttons button:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 #0066ff; /* Shadow biru lebih besar saat hover */
+  background-color: #000000;
+  color: #ffffff;
 }

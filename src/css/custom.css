@@ -44,7 +44,6 @@
 /* Optional brutalist extras */
 * {
   border-radius: 0 !important;
-  box-shadow: none !important;
   font-family: monospace, 'Courier New', Courier;
 }
 
@@ -62,3 +61,4 @@ button, .button {
   background-color: #000000 !important;
   color: #ffffff !important;
 }
+
