@@ -2,25 +2,73 @@
 sidebar_position: 4
 ---
 
-# Sifat Pembagian pada Bilangan Bulat
-Pembahasan bilangan bulat kita mulai dari sifat pembagian (division). Mengapa pembagian? Karena salah satu konsep bilangan bulat yang berguna dalam aritmetika komputer adalah bilangan prima. Bilangan prima adalah bilangan yang hanya habis dibagi oleh 1 dan dirinya sendiri. Bahkan, sembarang bilangan bulat positif dapat dinyatakan sebagai hasil perkalian satu atau lebih bilangan prima.
+# ➗ Sifat Pembagian pada Bilangan Bulat
 
-DEFINISI 5.2. Misalkan *a* dan *b* adalah dua buah bilangan bulat dengan syarat *a* ≠ 0. Kita menyatakan bahwa *a* **habis membagi** *b* (*a divides b*) jika terdapat bilangan bulat *c* sedemikian sehingga *b* = *ac*.
+Mari kita mulai pembahasan tentang bilangan bulat dari konsep dasar yang sangat penting: **pembagian**. Mengapa pembagian? 🤔 Karena dari sinilah kita mengenal bilangan prima, aritmetika modulo, dan algoritma Euclidean — semua ini sangat berperan penting, terutama dalam dunia kriptografi 🔐.
 
-Notasi : *a* | *b* jika *b* = *ac*, *c* ∈ **Z** dan *a* ≠ 0 
+---
 
-Dengan kata lain, jika *b* dibagi dengan *a* , maka hasil pembagiannya berupa bilangan bulat. Kadang-kadang pernyataan “*a* habis membagi *b*“ ditulis juga “*b* **kelipatan** *a*”.
+## 📘 Definisi Pembagian
 
-Sebagai contoh, 4 | 12 karena 12 / 4 = 3 (bilangan bulat) atau 12 = 4 x 3. Tetapi 4 tidak habis membagi 13 karena 13 / 4 = 3.25 (bukan bilangan bulat).
+Misalkan *a* dan *b* adalah bilangan bulat, dan *a* ≠ 0. Kita mengatakan bahwa *a* **habis membagi** *b* jika ada bilangan bulat *c* sehingga berlaku:
 
-Secara umum, jika hasil pembagian bilangan bulat dinyatakan sebagai bilangan bulat juga, maka sembarang bilangan bulat bila dibagi dengan suatu bilangan bulat positif, maka selalu terdapat (1) hasil bagi dan (2) sisa pembagian. Misalnya, 13 / 4 memberikan hasil bagi 3 dan sisa 1. Kasus khusus, jika *a* habis membagi *b*, maka sisa pembagian adalah 0, misalnya 12 / 4 memberikan hasil bagi 3 dan sisa 0. Perhatikan juga bahwa sisa hasil pembagian selalu lebih besar atau sama dengan nol tetapi lebih kecil dari pembagi. Sifat ini kita tuangkan dalaam Teorema berikut.
+> *b = a × c*
 
-Misalkan *m* dan *n* adalah dua buah bilangan bulat dengan syarat *n* > 0. Jika *m* dibagi dengan *n* maka terdapat dua buah bilangan bulat unik *q* (*quotient*) dan *r* (*remainder*), sedemikian sehingga *m* = nq + r dengan 0 < r < n
+📌 Notasi yang biasa digunakan:  
+> *a | b*  → dibaca "*a* membagi *b*"
 
-Teorema diatas sering disebut juga **teorema Euclidian** (dari nama ilmuwan Yunani yang bernama Euclid, lahir pada tahun 350 sebelum Masehi). Bilangan *n* disebut **pembagi** (*divisor*), *m* disebut **yang dibagi** (*dividend*), *q* disebut **hasil bagi** (*quotient*), dan *r* disebut **sisa** (*remainder*). Notasi yang digunakan untuk mengekspresikan hasil bagi dan sisa adalah dengan menggunakan operator *mod* dan *div* seperti berikut
+Artinya, ketika *b* dibagi dengan *a*, hasilnya berupa bilangan bulat tanpa sisa. Kadang, pernyataan ini juga disebut "*b* adalah kelipatan dari *a*".
 
-*q* = *m* **div** *n*, 
+---
 
-*r* = *m* **mod** *r*
+### ✍️ Contoh
 
+- ✅ 4 membagi 12 → karena 12 = 4 × 3  
+- ❌ 4 tidak membagi 13 → karena 13 ÷ 4 = 3,25 (bukan bilangan bulat)
 
+---
+
+## 📐 Teorema Euclides
+
+Setiap kali sebuah bilangan bulat *m* dibagi oleh bilangan bulat positif *n*, pasti akan diperoleh dua bilangan bulat unik, yaitu:
+
+- *q* sebagai **hasil bagi** 📤  
+- *r* sebagai **sisa pembagian** 🧩
+
+Misalnya, saat 13 dibagi 4:
+
+- Hasil bagi (*q*) = 3  
+- Sisa (*r*) = 1
+
+Jika pembagiannya sempurna, maka sisanya adalah nol. Contohnya, 12 dibagi 4 menghasilkan 3 dengan sisa 0.
+
+💡 Catatan:  
+Sisa pembagian *r* selalu **lebih besar atau sama dengan 0**, dan **lebih kecil dari pembagi *n***.
+
+---
+
+## 🧠 Ringkasan Istilah
+
+- *m* → bilangan yang dibagi (*dividend*)  
+- *n* → pembagi (*divisor*)  
+- *q* → hasil bagi (*quotient*)  
+- *r* → sisa (*remainder*)
+
+---
+
+## ⚙️ Notasi `div` dan `mod`
+
+Untuk menyatakan hasil bagi dan sisa dalam pembagian, digunakan dua operator penting:
+
+- `div` → untuk menyatakan hasil bagi bulat  
+- `mod` → untuk menyatakan sisa pembagian  
+
+Contoh:  
+Jika 13 dibagi 4, maka:
+
+- `13 div 4 = 3`  
+- `13 mod 4 = 1`
+
+---
+
+Materi ini akan menjadi dasar saat kita membahas topik-topik lanjutan seperti **bilangan prima**, **faktorisasi**, dan **aritmetika modulo**. Pastikan kamu memahaminya dengan baik, karena kita akan melangkah makin dalam! 🚀
