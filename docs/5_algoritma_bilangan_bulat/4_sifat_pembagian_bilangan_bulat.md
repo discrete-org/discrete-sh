@@ -17,6 +17,10 @@ Secara umum, jika hasil pembagian bilangan bulat dinyatakan sebagai bilangan bul
 
 Misalkan *m* dan *n* adalah dua buah bilangan bulat dengan syarat *n* > 0. Jika *m* dibagi dengan *n* maka terdapat dua buah bilangan bulat unik *q* (*quotient*) dan *r* (*remainder*), sedemikian sehingga *m* = nq + r dengan 0 < r < n
 
+Teorema diatas sering disebut juga **teorema Euclidian** (dari nama ilmuwan Yunani yang bernama Euclid, lahir pada tahun 350 sebelum Masehi). Bilangan *n* disebut **pembagi** (*divisor*), *m* disebut **yang dibagi** (*dividend*), *q* disebut **hasil bagi** (*quotient*), dan *r* disebut **sisa** (*remainder*). Notasi yang digunakan untuk mengekspresikan hasil bagi dan sisa adalah dengan menggunakan operator *mod* dan *div* seperti berikut
 
+*q* = *m* **div** *n*, 
+
+*r* = *m* **mod** *r*
 
 
