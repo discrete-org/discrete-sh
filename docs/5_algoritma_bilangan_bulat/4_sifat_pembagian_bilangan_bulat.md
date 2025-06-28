@@ -13,4 +13,6 @@ Dengan kata lain, jika *b* dibagi dengan *a* , maka hasil pembagiannya berupa bi
 
 Sebagai contoh, 4 | 12 karena 12 / 4 = 3 (bilangan bulat) atau 12 = 4 x 3. Tetapi 4 tidak habis membagi 13 karena 13 / 4 = 3.25 (bukan bilangan bulat).
 
+Secara umum, jika hasil pembagian bilangan bulat dinyatakan sebagai bilangan bulat juga, maka sembarang bilangan bulat bila dibagi dengan suatu bilangan bulat positif, maka selalu terdapat (1) hasil bagi dan (2) sisa pembagian. Misalnya, 13 / 4 memberikan hasil bagi 3 dan sisa 1. 
+
 
