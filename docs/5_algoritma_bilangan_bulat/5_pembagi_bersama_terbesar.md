@@ -2,14 +2,46 @@
 sidebar_position: 5
 ---
 
-# Pembagi Bersama Terbesar
-Dua buah bilangan bulat dapat memiliki faktor pembagi yang sama. Faktor pembagi bersama yang terpenting adalah faktor **pembagi bersama terbesar** (*greatest common divisor*) atau PBB. Misalnya 45 memiliki faktor pembagi 1, 3, 5, 9, 15, dan 45 sendiri; sedangkan 36 memiliki faktor pembagi 1, 2, 3, 4, 9, 12, 18, dan 36 sendiri. Faktor pembagi bersama dari 45 dan 36 adalah 1, 3, 9, yang terbesar adalah 9 sehingga disimpulkan PBB(45, 36) = 9. 
+# 🔍 Pembagi Bersama Terbesar
 
-Definisi. Misalkan *a* dan *b* adalah dua buah bilangan tidak nol. Pembagi bersama terbesar (PBB) dari *a* dan *b* adalah bilangan bulat terbesar *d* sedemikian sehingga d|a dan d|b. Dalam hal ini kita nyatakan bahwa PBB(a,b)=d
+Dua bilangan bulat dapat memiliki beberapa faktor pembagi yang sama. Di antara semua faktor pembagi bersama itu, yang paling penting adalah **pembagi bersama terbesar** (*Greatest Common Divisor* atau disingkat **PBB**).
 
-Sifat-sifat dari pembagi bersama terbesar dinyatakan dalam teorema berikut 
+Sebagai contoh:
 
-Teorema. Misalkan a, b, dan c adalah bilangan bulat
-1. Jika c adalah PBB dari a dan b, maka c| (a+b)
-2. Jika c adalah PBB dari a dan b, maka c|(a—b)
-3. Jika c|a, maka c|ab
+- Faktor dari 45 adalah: 1, 3, 5, 9, 15, dan 45  
+- Faktor dari 36 adalah: 1, 2, 3, 4, 6, 9, 12, 18, dan 36  
+- Faktor pembagi bersama: 1, 3, dan 9  
+- Maka: **PBB(45, 36) = 9**
+
+---
+
+## 📘 Definisi
+
+Misalkan *a* dan *b* adalah dua bilangan bulat tidak nol. Maka **pembagi bersama terbesar** dari *a* dan *b* adalah bilangan bulat terbesar *d* sedemikian sehingga:
+
+- *d* membagi *a* (**d | a**), dan  
+- *d* membagi *b* (**d | b**)  
+
+Notasi:  
+> **PBB(a, b) = d**
+
+---
+
+## 🧠 Sifat-Sifat Pembagi Bersama Terbesar
+
+Beberapa sifat penting dari PBB yang akan sering digunakan dalam pembuktian dan perhitungan:
+
+### 📌 Teorema
+
+Misalkan *a*, *b*, dan *c* adalah bilangan bulat. Maka:
+
+1. Jika *c* adalah PBB dari *a* dan *b*, maka  
+   **c | (a + b)**  
+2. Jika *c* adalah PBB dari *a* dan *b*, maka  
+   **c | (a − b)**  
+3. Jika *c | a*, maka  
+   **c | (a × b)**
+
+---
+
+Pemahaman terhadap konsep PBB ini sangat penting, terutama sebagai fondasi dalam algoritma Euclidean, faktorisasi prima, serta aplikasi dalam kriptografi dan pemrograman kompetitif. 🚀
