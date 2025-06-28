@@ -39,7 +39,7 @@ Misalkan *a*, *b*, dan *c* adalah bilangan bulat. Maka:
    **c | (a + b)**  
 2. Jika *c* adalah PBB dari *a* dan *b*, maka  
    **c | (a − b)**  
-3. Jika *c | a*, maka  
+3. Jika *c* | *a*, maka  
    **c | (a × b)**
 
 ---
