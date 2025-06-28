@@ -15,6 +15,8 @@ Sebagai contoh, 4 | 12 karena 12 / 4 = 3 (bilangan bulat) atau 12 = 4 x 3. Tetap
 
 Secara umum, jika hasil pembagian bilangan bulat dinyatakan sebagai bilangan bulat juga, maka sembarang bilangan bulat bila dibagi dengan suatu bilangan bulat positif, maka selalu terdapat (1) hasil bagi dan (2) sisa pembagian. Misalnya, 13 / 4 memberikan hasil bagi 3 dan sisa 1. Kasus khusus, jika *a* habis membagi *b*, maka sisa pembagian adalah 0, misalnya 12 / 4 memberikan hasil bagi 3 dan sisa 0. Perhatikan juga bahwa sisa hasil pembagian selalu lebih besar atau sama dengan nol tetapi lebih kecil dari pembagi. Sifat ini kita tuangkan dalaam Teorema berikut.
 
+Misalkan *m* dan *n* adalah dua buah bilangan bulat dengan syarat *n* > 0. Jika *m* dibagi dengan *n* maka terdapat dua buah bilangan bulat unik *q* (*quotient*) dan *r* (*remainder*), sedemikian sehingga *m* = nq + r dengan 0 < r < n
+
 
 
 
