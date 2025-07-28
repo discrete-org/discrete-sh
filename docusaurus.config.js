@@ -49,10 +49,10 @@ const config = {
             'https://github.com/mayendradwika/matematika-diskrit/edit/main/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           feedOptions: {
             type: ['rss', 'atom'],
-            xslt: true,
+            xslt: false,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -88,7 +88,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/mayendradwika/matematika-diskrit',
             label: 'GitHub',
