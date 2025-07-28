@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelajar_matematika_diskrit=self.webpackChunkbelajar_matematika_diskrit||[]).push([[9647],{7121:(e,a,r)=>{r.r(a),r.d(a,{default:()=>l});r(6540);var s=r(4164),t=r(5500),i=r(7559),u=r(2831),c=r(1656),k=r(4848);function l(e){return(0,k.jsx)(t.e3,{className:(0,s.A)(i.G.wrapper.docsPages),children:(0,k.jsx)(c.A,{children:(0,u.v)(e.route.routes)})})}}}]);
