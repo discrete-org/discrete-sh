@@ -29,15 +29,15 @@ Jika sebuah himpunan memiliki **n** elemen, maka banyaknya himpunan bagian yang 
 
 ### Contoh:
 
-Misalnya D = {a, b}  
+Misalnya D = `{a, b}`  
 👉 Jumlah elemen = 2  
 👉 Maka jumlah himpunan bagiannya = 2² = 4
 
 Berikut himpunan bagian dari D:  
 - ∅ (himpunan kosong)  
-- {a}  
-- {b}  
-- {a, b}
+- `{a}`  
+- `{b}`  
+- `{a, b}`
 
 ---
 

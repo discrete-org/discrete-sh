@@ -12,13 +12,13 @@ Ditulis dengan simbol: `A ≈ B`
 
 ## 📚 Contoh:
 
-1. **A = {1, 2, 3}**  
-   **B = {a, b, c}**  
+1. **A = `{1, 2, 3}`**  
+   **B = `{a, b, c}`**  
    👉 Jumlah elemen A = 3 dan jumlah elemen B = 3  
    ✅ Maka: `A ≈ B` (ekuivalen)
 
-2. **C = {apel, jeruk, pisang}**  
-   **D = {merah, kuning}**  
+2. **C = `{apel, jeruk, pisang}`**  
+   **D = `{merah, kuning}`**  
    👉 Jumlah elemen C = 3, sedangkan D = 2  
    ❌ Maka: `C ≉ D` (tidak ekuivalen)
 

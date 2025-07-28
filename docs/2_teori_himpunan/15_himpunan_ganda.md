@@ -10,7 +10,7 @@ Jika kita memiliki dua himpunan **A** dan **B**, maka **produk kartesian** dari 
 
 Secara formal, produk kartesian antara dua himpunan A dan B dituliskan sebagai:
 \[
-A \times B = \{(a, b) \mid a \in A \text{ dan } b \in B\}
+A \times B = \{(a, b) \mid a \in A \text`{ dan }` b \in B\}
 \]
 
 Dengan kata lain, kita membuat pasangan \((a, b)\) untuk setiap elemen **a** yang ada di himpunan A dan setiap elemen **b** yang ada di himpunan B.
@@ -20,8 +20,8 @@ Dengan kata lain, kita membuat pasangan \((a, b)\) untuk setiap elemen **a** yan
 ## 🎯 Contoh Himpunan Ganda (Produk Kartesian)
 
 Misalkan kita memiliki dua himpunan:
-- **A = {1, 2}**
-- **B = {x, y}**
+- **A = `{1, 2}`**
+- **B = `{x, y}`**
 
 Maka, produk kartesian antara A dan B, **A × B**, adalah himpunan yang berisi pasangan terurut yang elemen pertamanya berasal dari A dan elemen keduanya berasal dari B:
 \[
@@ -48,7 +48,7 @@ Jelas bahwa **A × B ≠ B × A**, karena urutan elemen dalam pasangan berbeda.
 Produk kartesian tidak terbatas hanya untuk dua himpunan. Kita dapat mengalikan lebih banyak himpunan, yang menghasilkan produk kartesian dari lebih banyak elemen.
 
 Contoh:
-- Jika **A = {1, 2}** dan **B = {x, y}** dan **C = {a, b}**, maka produk kartesian **A × B × C** adalah himpunan yang berisi pasangan terurut tiga elemen:
+- Jika **A = `{1, 2}`** dan **B = `{x, y}`** dan **C = `{a, b}`**, maka produk kartesian **A × B × C** adalah himpunan yang berisi pasangan terurut tiga elemen:
   
   \[
   A \times B \times C = \{(1, x, a), (1, x, b), (1, y, a), (1, y, b), (2, x, a), (2, x, b), (2, y, a), (2, y, b)\}
@@ -69,9 +69,9 @@ Himpunan hasil dari **A × B × C** berisi **8 pasangan terurut**.
 ## 📊 Contoh Himpunan Ganda dengan Tiga Himpunan
 
 Misalkan:
-- **A = {1, 2}**
-- **B = {x, y}**
-- **C = {a, b}**
+- **A = `{1, 2}`**
+- **B = `{x, y}`**
+- **C = `{a, b}`**
 
 Maka produk kartesian **A × B × C** menghasilkan pasangan terurut yang berisi tiga elemen:
 \[

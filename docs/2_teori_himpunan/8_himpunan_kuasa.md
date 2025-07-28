@@ -17,33 +17,33 @@ Jika sebuah himpunan A memiliki **n** elemen, maka banyaknya himpunan bagian (at
 
 ### Contoh:
 
-Misalnya A = {a, b}  
+Misalnya A = `{a, b}`  
 👉 Jumlah elemen = 2  
 👉 Maka banyaknya himpunan kuasa = 2² = 4
 
-Himpunan kuasa dari A = {a, b} adalah:  
+Himpunan kuasa dari A = `{a, b}` adalah:  
 - ∅ (himpunan kosong)  
-- {a}  
-- {b}  
-- {a, b}
+- `{a}`  
+- `{b}`  
+- `{a, b}`
 
 ---
 
 ## 📚 Contoh Lain:
 
-Misalnya B = {1, 2, 3}  
+Misalnya B = `{1, 2, 3}`  
 👉 Jumlah elemen = 3  
 👉 Maka banyaknya himpunan kuasa = 2³ = 8
 
-Himpunan kuasa dari B = {1, 2, 3} adalah:  
+Himpunan kuasa dari B = `{1, 2, 3}` adalah:  
 - ∅  
-- {1}  
-- {2}  
-- {3}  
-- {1, 2}  
-- {1, 3}  
-- {2, 3}  
-- {1, 2, 3}
+- `{1}`  
+- `{2}`  
+- `{3}`  
+- `{1, 2}`  
+- `{1, 3}`  
+- `{2, 3}`  
+- `{1, 2, 3}`
 
 ---
 

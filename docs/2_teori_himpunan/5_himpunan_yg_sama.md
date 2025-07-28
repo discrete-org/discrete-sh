@@ -12,18 +12,18 @@ Ditulis dengan simbol: `A = B`
 
 ## 📚 Contoh:
 
-1. **A = {1, 2, 3}**  
-   **B = {3, 2, 1}**  
+1. **A = `{1, 2, 3}`**  
+   **B = `{3, 2, 1}`**  
    👉 Meskipun urutannya berbeda, elemen-elemennya sama  
    ✅ Maka: `A = B`
 
-2. **C = {a, b, c}**  
-   **D = {a, b, b, c}**  
+2. **C = `{a, b, c}`**  
+   **D = `{a, b, b, c}`**  
    👉 Himpunan tidak memperhitungkan jumlah elemen yang sama (b muncul dua kali di D tetap dianggap satu)  
    ✅ Maka: `C = D`
 
-3. **E = {1, 2, 3}**  
-   **F = {1, 2, 4}**  
+3. **E = `{1, 2, 3}`**  
+   **F = `{1, 2, 4}`**  
    ❌ Karena ada elemen yang berbeda (3 ≠ 4), maka:  
    `E ≠ F`
 

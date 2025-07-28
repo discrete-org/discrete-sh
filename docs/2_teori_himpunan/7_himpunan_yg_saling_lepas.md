@@ -12,13 +12,13 @@ yang artinya **irisan A dan B adalah himpunan kosong**
 
 ## 📚 Contoh:
 
-1. **A = {1, 2, 3}**  
-   **B = {4, 5, 6}**  
+1. **A = `{1, 2, 3}`**  
+   **B = `{4, 5, 6}`**  
    👉 Tidak ada elemen yang sama antara A dan B  
    ✅ Maka: `A` dan `B` adalah **saling lepas**
 
-2. **C = {apel, jeruk, mangga}**  
-   **D = {pisang, mangga, semangka}**  
+2. **C = `{apel, jeruk, mangga}`**  
+   **D = `{pisang, mangga, semangka}`**  
    👉 Ada elemen yang sama yaitu `mangga`  
    ❌ Maka: `C` dan `D` **tidak saling lepas**
 
