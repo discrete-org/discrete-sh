@@ -15,17 +15,17 @@ const config = {
   favicon: 'img/matdis.png',
 
   // Set the production url of your site here
-  url: 'https://matdis.zone.id/',
+  url: 'https://mayendradwika.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/matematika-diskrit/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mayendradwika', // Usually your GitHub org/user name.
   projectName: 'matematika-diskrit', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
