@@ -15,10 +15,10 @@ const config = {
   favicon: 'img/matdis.png',
 
   // Set the production url of your site here
-  url: 'https://mayendradwika.github.io',
+  url: 'https://matdis.zone.id/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/matematika-diskrit',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -74,7 +74,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg  ',
+      image: 'img/matdis.png',
       navbar: {
         title: 'Matematika Diskrit',
         logo: {
@@ -104,10 +104,6 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
               },
               {
                 label: 'GitHub',
