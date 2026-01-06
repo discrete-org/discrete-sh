@@ -10,8 +10,6 @@ Sebelum membuka materi ini, izinkan saya menyampaikan apresiasi yang sebesar-bes
 
 - **Keluarga tercinta**, terutama Ama dan Apa yang senantiasa menjadi sumber semangat dan dukungan tanpa syarat; Mas Danu yang tak henti memberikan dorongan dan motivasi; serta Afnan dan Ajeng, adik-adik tersayang yang selalu menghadirkan keceriaan dan warna dalam kehidupan sehari-hari.
 
-- **Ira Hoirani**, desainer visual yang dengan kreativitasnya membantu menyajikan tampilan situs ini menjadi lebih estetik dan fungsional. Terima kasih atas saran artistik yang sangat berarti.
-
 ---
 
 Semoga materi ini dapat membantu Anda memahami konsep logika dan Matematika Diskrit dengan lebih baik. Harapannya, penjelasan yang diberikan tidak hanya informatif, tetapi juga menyenangkan untuk dipelajari. ✨
