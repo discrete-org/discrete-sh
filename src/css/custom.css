@@ -1,66 +1,47 @@
+/* src/css/custom.css */
+
 :root {
-  --ifm-color-primary: #000000; /* Black */
-  --ifm-color-primary-dark: #000000;
-  --ifm-color-primary-darker: #000000;
-  --ifm-color-primary-darkest: #000000;
-  --ifm-color-primary-light: #ffffff;
-  --ifm-color-primary-lighter: #ffffff;
-  --ifm-color-primary-lightest: #ffffff;
+  /* Aksen Warna: Cyan / Electric Blue (Sleek Tech Vibe) */
+  --ifm-color-primary: #0ea5e9;
+  --ifm-color-primary-dark: #0284c7;
+  --ifm-color-primary-darker: #0369a1;
+  --ifm-color-primary-darkest: #0c4a6e;
+  --ifm-color-primary-light: #38bdf8;
+  --ifm-color-primary-lighter: #7dd3fc;
+  --ifm-color-primary-lightest: #bae6fd;
 
-  --ifm-background-color: #ffffff; /* White background */
-  --ifm-font-color-base: #000000; /* Black text */
+  /* Tipografi: Sans-serif untuk bacaan, Monospace untuk kesan Tech pada Judul */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  
   --ifm-code-font-size: 95%;
-
-  --docusaurus-highlighted-code-line-bg: #000000; /* Code line highlight in black */
-  --ifm-code-background: #ffffff;
-  --ifm-link-color: #000000;
-
-  --ifm-navbar-background-color: #ffffff;
-  --ifm-footer-background-color: #ffffff;
-  --ifm-menu-color: #000000;
+  --ifm-code-border-radius: 4px;
 }
 
-/* Dark theme version (inverts the color palette) */
+/* Dark Mode: Latar belakang ala Code Editor (Slate/Navy Dark) */
 [data-theme='dark'] {
-  --ifm-color-primary: #ffffff; /* White */
-  --ifm-color-primary-dark: #ffffff;
-  --ifm-color-primary-darker: #ffffff;
-  --ifm-color-primary-darkest: #ffffff;
-  --ifm-color-primary-light: #000000;
-  --ifm-color-primary-lighter: #000000;
-  --ifm-color-primary-lightest: #000000;
+  --ifm-color-primary: #38bdf8;
+  --ifm-color-primary-dark: #0ea5e9;
+  --ifm-color-primary-darker: #0284c7;
+  --ifm-color-primary-darkest: #0369a1;
+  --ifm-color-primary-light: #7dd3fc;
+  --ifm-color-primary-lighter: #bae6fd;
+  --ifm-color-primary-lightest: #e0f2fe;
 
-  --ifm-background-color: #000000; /* Black background */
-  --ifm-font-color-base: #ffffff; /* White text */
-  --docusaurus-highlighted-code-line-bg: #ffffff;
-  --ifm-code-background: #000000;
-  --ifm-link-color: #ffffff;
-
-  --ifm-navbar-background-color: #000000;
-  --ifm-footer-background-color: #000000;
-  --ifm-menu-color: #ffffff;
+  --ifm-background-color: #0f172a; /* Warna Slate-900 ala terminal modern */
+  --ifm-background-surface-color: #1e293b;
 }
 
-/* Optional brutalist extras */
-* {
-  border-radius: 0 !important;
-  font-family: monospace, 'Courier New', Courier;
-}
-
-button, .button {
-  border: 2px solid #000000 !important;
-  background-color: #ffffff !important;
-  color: #000000 !important;
+/* Kustomisasi Elemen Spesifik */
+h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
-  font-weight: bold;
+  letter-spacing: 0.5px;
 }
 
-[data-theme='dark'] button, 
-[data-theme='dark'] .button {
-  border: 2px solid #ffffff !important;
-  background-color: #000000 !important;
-  color: #ffffff !important;
+.button, button {
+  border-radius: 0px !important; /* Mempertahankan kesan tegas/arsitektur */
+  text-transform: uppercase;
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 700;
+  letter-spacing: 1px;
 }
-
-
-

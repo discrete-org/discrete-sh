@@ -1,46 +1,100 @@
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  background-color: auto;
-  color: auto;
-  font-family: monospace;
+/* src/pages/index.module.css */
+
+.mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 60px); /* Memenuhi layar penuh dikurangi tinggi navbar */
+  background-image: radial-gradient(var(--ifm-color-primary-lightest) 1px, transparent 1px);
+  background-size: 30px 30px;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+[data-theme='dark'] .mainContainer {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
+.heroBanner {
+  padding: 0;
+  width: 100%;
+  background-color: transparent;
+}
+
+/* Jendela Terminal Kustom */
+.terminalWindow {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-theme='dark'] .terminalWindow {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 10px 10px 0px rgba(14, 165, 233, 0.2); /* Glow biru kotak di dark mode */
+}
+
+.terminalHeader {
+  background-color: var(--ifm-color-emphasis-200);
+  padding: 10px 15px;
+  display: flex;
+  gap: 8px;
+  border-bottom: 2px solid var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .terminalHeader {
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.terminalBody {
+  padding: 4rem 2rem;
+  text-align: left;
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  font-family: var(--ifm-heading-font-family);
+  color: var(--ifm-font-color-base);
+  opacity: 0.8;
+  margin-bottom: 2rem;
 }
 
 .buttons {
   display: flex;
-  align-items: center;
-  justify-content: center;
   gap: 1rem;
-  margin-top: 2rem;
 }
 
-.buttons a,
-.buttons button {
-  background-color: #ffffff;
-  color: #000000;
-  border: 2px solid #000000;
-  padding: 0.75rem 1.5rem;
-  font-weight: bold;
-  font-family: monospace;
-  text-transform: uppercase;
-  cursor: pointer;
-  box-shadow: 5px 5px 0 #0066ff; /* Shadow biru */
-  transition: all 0.15s ease-in-out;
-  text-decoration: none;
+.buttons a {
+  font-family: var(--ifm-heading-font-family);
+  border: 2px solid var(--ifm-color-primary);
+  padding: 0.8rem 1.5rem;
+  transition: all 0.2s ease;
 }
 
-.buttons a:hover,
-.buttons button:hover {
-  transform: translate(-2px, -2px);
-  box-shadow: 8px 8px 0 #F6E27F; /* Shadow biru lebih besar saat hover */
-  background-color: #000000;
-  color: #ffffff;
+.buttons a:hover {
+  transform: translateY(-2px);
+  box-shadow: 4px 4px 0px var(--ifm-color-primary);
+}
+
+@media screen and (max-width: 996px) {
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+  .terminalWindow {
+    box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.1);
+  }
 }
