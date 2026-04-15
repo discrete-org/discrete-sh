@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbelajar_matematika_diskrit=globalThis.webpackChunkbelajar_matematika_diskrit||[]).push([[1936],{1949(a){a.exports=JSON.parse('{"metadata":{"permalink":"/matematika-diskrit/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
