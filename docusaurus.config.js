@@ -18,7 +18,7 @@ const config = {
   url: 'https://mayendradwika.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/matematika-diskrit/', // <-- SUDAH DIPERBAIKI (Sesuai nama repo)
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mayendradwika/matematika-diskrit/edit/main/',
+            'https://github.com/mayendradwika/matematika-diskrit/edit/Basic/', // <-- SUDAH DIPERBAIKI (Sesuai branch Basic)
         },
         blog: {
           showReadingTime: false,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mayendradwika/matematika-diskrit/edit/main/blog/',
+            'https://github.com/mayendradwika/matematika-diskrit/edit/Basic/blog/', // <-- SUDAH DIPERBAIKI (Sesuai branch Basic)
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -78,7 +78,7 @@ const config = {
       navbar: {
         title: 'Matematika Diskrit',
         logo: {
-          alt: 'img/matdis.png',
+          alt: 'Logo Matematika Diskrit', // <-- SUDAH DIPERBAIKI (Agar rapi dan SEO friendly)
           src:'img/matdis.png',
         },
         items: [
