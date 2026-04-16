@@ -43,7 +43,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Logika & Komputasi | ${siteConfig.title}`}
+      title={`.discrete-sh`}
       description="Catatan perjalanan belajar Matematika Diskrit dan Logika Komputasi.">
       <main className={styles.mainContainer}>
         <HomepageHeader />

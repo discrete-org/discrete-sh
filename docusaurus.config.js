@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Belajar Matematika Diskrit',
   tagline: 'Matematika Diskrit Itu Keren!! ⚡🧠 Yuk, Belajar Bareng !',
-  favicon: 'img/matdis.png',
+  favicon: 'img/new_logo_again.png',
 
   
   url: 'https://mayendradwika.github.io',
@@ -64,12 +64,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       
-      image: 'img/matdis.png',
+      image: 'img/new_logo_again.png',
       navbar: {
-        title: 'Matematika Diskrit',
+        title: '.discrete-sh',
         logo: {
           alt: 'Logo Matematika Diskrit', 
-          src:'img/matdis.png',
+          src:'img/new_logo_again.png',
         },
         items: [
           {
@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Discrete.sh © 2026`,
+        copyright: `.discrete-sh © 2026`,
       },
       prism: {
         theme: prismThemes.github,
