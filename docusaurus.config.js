@@ -14,23 +14,16 @@ const config = {
   tagline: 'Matematika Diskrit Itu Keren!! ⚡🧠 Yuk, Belajar Bareng !',
   favicon: 'img/matdis.png',
 
-  // Set the production url of your site here
+  
   url: 'https://mayendradwika.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/matematika-diskrit/', // <-- SUDAH DIPERBAIKI (Sesuai nama repo)
+  baseUrl: '/discrete-sh/', 
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mayendradwika', // Usually your GitHub org/user name.
-  projectName: 'matematika-diskrit', // Usually your repo name.
-
+  organizationName: 'mayendradwika', 
+  projectName: 'discrete-sh', 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+ 
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -43,10 +36,9 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          
           editUrl:
-            'https://github.com/mayendradwika/matematika-diskrit/edit/Basic/', // <-- SUDAH DIPERBAIKI (Sesuai branch Basic)
+            'https://github.com/mayendradwika/discrete-sh/edit/Basic/', 
         },
         blog: {
           showReadingTime: false,
@@ -54,11 +46,9 @@ const config = {
             type: ['rss', 'atom'],
             xslt: false,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+         
           editUrl:
-            'https://github.com/mayendradwika/matematika-diskrit/edit/Basic/blog/', // <-- SUDAH DIPERBAIKI (Sesuai branch Basic)
-          // Useful options to enforce blogging best practices
+            'https://github.com/mayendradwika/discrete-sh/edit/Basic/blog/', 
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -73,12 +63,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      
       image: 'img/matdis.png',
       navbar: {
         title: 'Matematika Diskrit',
         logo: {
-          alt: 'Logo Matematika Diskrit', // <-- SUDAH DIPERBAIKI (Agar rapi dan SEO friendly)
+          alt: 'Logo Matematika Diskrit', 
           src:'img/matdis.png',
         },
         items: [
@@ -89,7 +79,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/mayendradwika/matematika-diskrit',
+            href: 'https://github.com/mayendradwika/discrete-sh',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,12 +97,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/mayendradwika/matematika-diskrit',
+                href: 'https://github.com/mayendradwika/discrete-sh',
               },
             ],
           },
         ],
-        copyright: `Matematika Diskrit © 2025`,
+        copyright: `Discrete.sh © 2026`,
       },
       prism: {
         theme: prismThemes.github,
