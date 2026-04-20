@@ -15,10 +15,10 @@ const config = {
   favicon: 'img/new_logo_again.png',
 
   
-  url: 'https://mayendradwika.github.io',
+  url: 'https://discrete-org.github.io',
   baseUrl: '/discrete-sh/', 
 
-  organizationName: 'mayendradwika', 
+  organizationName: 'discrete-org', 
   projectName: 'discrete-sh', 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +38,7 @@ const config = {
           sidebarPath: './sidebars.js',
           
           editUrl:
-            'https://github.com/mayendradwika/discrete-sh/edit/Basic/', 
+            'https://github.com/discrete-org/discrete-sh/tree/main/', 
         },
         blog: {
           showReadingTime: false,
@@ -48,7 +48,7 @@ const config = {
           },
          
           editUrl:
-            'https://github.com/mayendradwika/discrete-sh/edit/Basic/blog/', 
+            'https://github.com/discrete-org/discrete-sh/tree/main/', 
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
